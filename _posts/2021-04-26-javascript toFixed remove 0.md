@@ -1,5 +1,6 @@
 ---
 title: "자바스크립트 toFixed() 0 없애기"
+show_date: true
 date: 2021-04-26
 categories: javascript
 tags: javascript 자바스크립트 toFixed

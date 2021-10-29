@@ -1,5 +1,6 @@
 ---
 title: "[dart문법]변수의 타입"
+show_date: true
 categories:
   - dart
   - dart-변수
