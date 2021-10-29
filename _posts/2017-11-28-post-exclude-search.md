@@ -1,5 +1,5 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "[블로그 꾸미기]Exclude Post from Search Index"
 search: false
 categories: 
   - Blogsample

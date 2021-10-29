@@ -1,5 +1,5 @@
 ---
-title: "Markup: Text Alignment"
+title: "[블로그 꾸미기]Markup: Text Alignment"
 categories: 
   - Blogsample
   - 블로그 꾸미기

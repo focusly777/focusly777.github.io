@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Image Overlay with Custom Tagline"
+title: "[블로그 꾸미기] Header Image Overlay with Custom Tagline"
 tagline: "This is a custom tagline content which overrides the *default* page excerpt."
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Image (Horizontal)"
+title: "[블로그 꾸미기] Header Image (Horizontal)"
 header:
   image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

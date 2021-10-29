@@ -1,5 +1,5 @@
 ---
-title: "Layout: Related Posts Enabled"
+title: "[블로그 꾸미기]: Related Posts Enabled"
 related: true
 categories: 
   - Blogsample

@@ -1,5 +1,5 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "[블로그 꾸미기]Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories: 

@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Sticky Table of Contents"
+title: "[블로그 꾸미기] Post with Sticky Table of Contents"
 categories: 
   - Blogsample
   - 블로그 꾸미기

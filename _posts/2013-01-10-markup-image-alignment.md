@@ -1,5 +1,5 @@
 ---
-title: "Markup: Image Alignment"
+title: "[블로그 꾸미기]Markup: Image Alignment"
 categories: 
   - Blogsample
   - 블로그 꾸미기

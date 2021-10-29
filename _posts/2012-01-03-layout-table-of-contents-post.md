@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Table of Contents"
+title: "[블로그 꾸미기] Post with Table of Contents"
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

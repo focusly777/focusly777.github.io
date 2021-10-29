@@ -1,5 +1,5 @@
 ---
-title: "Layout: Social Sharing Links Disabled"
+title: "[블로그 꾸미기]: Social Sharing Links Disabled"
 share: false
 categories: 
   - Blogsample

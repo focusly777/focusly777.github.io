@@ -1,5 +1,5 @@
 ---
-title: "Markup: Text Readability Test"
+title: "[블로그 꾸미기]Markup: Text Readability Test"
 excerpt: "A bunch of text to test readability."
 categories: 
   - Blogsample

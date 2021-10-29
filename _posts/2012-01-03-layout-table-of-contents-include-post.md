@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Nested Table of Contents via Helper"
+title: "[블로그 꾸미기]: Post with Nested Table of Contents via Helper"
 categories: 
   - Blogsample
   - 블로그 꾸미기

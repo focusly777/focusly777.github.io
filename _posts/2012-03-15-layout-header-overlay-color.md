@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Overlay with Background Fill"
+title: "[블로그 꾸미기] Header Overlay with Background Fill"
 header:
   overlay_color: "#333"
 categories: 

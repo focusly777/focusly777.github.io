@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Image and Text Readability"
+title: "[블로그 꾸미기] Header Image and Text Readability"
 header:
   image: /assets/images/unsplash-image-4.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
