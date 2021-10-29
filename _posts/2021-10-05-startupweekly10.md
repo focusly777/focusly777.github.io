@@ -1,9 +1,9 @@
 ---
-title: "dart문법 기초"
+title: "2021년 9~10월 스타트업 국내외 소식"
 categories:
-  - dart
+  - startup
 tags:
-  - dart 문법
+  - startup news
 toc: true
 toc_sticky: true
 ---
