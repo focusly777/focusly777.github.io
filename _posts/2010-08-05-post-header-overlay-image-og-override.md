@@ -7,9 +7,9 @@ header:
   actions:
     - label: "Learn More"
       url: "https://unsplash.com"
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - edge case
   - image

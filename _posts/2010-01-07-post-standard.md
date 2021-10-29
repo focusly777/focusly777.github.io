@@ -1,8 +1,9 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
-categories:
-  - Post Formats
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - Post Formats
   - readability

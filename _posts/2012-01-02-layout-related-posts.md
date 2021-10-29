@@ -1,9 +1,9 @@
 ---
 title: "Layout: Related Posts Enabled"
 related: true
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - related posts
   - layout

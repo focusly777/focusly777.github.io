@@ -1,6 +1,9 @@
 ---
 title: "Layout: Post Date Enabled"
 show_date: true
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - post date
 ---

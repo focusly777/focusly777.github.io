@@ -1,7 +1,8 @@
 ---
 title: "Post: Image (Standard)"
-categories:
-  - Post Formats
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - image
   - Post Formats

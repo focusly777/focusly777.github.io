@@ -1,5 +1,8 @@
 ---
 title: "Edge Case: Post with multiline excerpt"
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 ---
 
 Et ex ullamco duis don't

@@ -1,9 +1,9 @@
 ---
 title: "Layout: Comments Disabled"
 comments: false
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - comments
   - layout

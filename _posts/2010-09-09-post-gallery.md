@@ -1,7 +1,8 @@
 ---
 title: "Post: Gallery"
-categories:
-  - Post Formats
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - gallery
   - Post Formats

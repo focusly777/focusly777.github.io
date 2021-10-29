@@ -3,9 +3,9 @@ title: "Post: Teaser Image with OpenGraph Override"
 header:
   teaser: /assets/images/page-header-teaser.png
   og_image: /assets/images/page-header-og-image.png
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - edge case
   - image

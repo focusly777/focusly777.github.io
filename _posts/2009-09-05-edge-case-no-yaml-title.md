@@ -1,6 +1,7 @@
 ---
-categories:
-  - Edge Case
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - edge case
   - layout

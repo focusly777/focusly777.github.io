@@ -1,6 +1,9 @@
 ---
 title: "Layout: Read Time Enabled"
 read_time: true
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - read time
 ---
