@@ -2,7 +2,8 @@
 title:  "Exclude Post from Search Index"
 search: false
 categories: 
-  - Jekyll
+  - Blogsample
+  - 블로그 꾸미기
 last_modified_at: 2018-02-19T08:05:34-05:00
 ---
 

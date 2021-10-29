@@ -1,7 +1,9 @@
 ---
-title: "Layout: Sidebar with Navigation List"
+title: "[블로그꾸미기] Sidebar with Navigation List"
 excerpt: "A post with a sidebar navigation list."
-author_profile: false
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample

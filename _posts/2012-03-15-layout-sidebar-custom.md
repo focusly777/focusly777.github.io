@@ -1,7 +1,9 @@
 ---
-title: "Layout: Sidebar Custom"
+title: "[블로그 꾸미기] Sidebar Custom"
 excerpt: "A post with custom sidebar content."
-author_profile: false
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 sidebar:
   - title: "Title"
     image: http://placehold.it/350x250

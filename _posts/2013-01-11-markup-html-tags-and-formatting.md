@@ -2,8 +2,9 @@
 title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
-categories:
-  - Markup
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - content
   - css

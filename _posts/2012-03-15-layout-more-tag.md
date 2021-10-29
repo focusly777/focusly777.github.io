@@ -1,9 +1,9 @@
 ---
 title: "Layout: More Tag"
 excerpt_separator: <!--more-->
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - content
   - read more

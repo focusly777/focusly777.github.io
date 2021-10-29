@@ -1,7 +1,8 @@
 ---
 title: "Markup: Text Alignment"
-categories:
-  - Markup
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - alignment
   - content

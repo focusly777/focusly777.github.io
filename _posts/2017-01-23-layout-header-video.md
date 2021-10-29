@@ -1,11 +1,12 @@
 ---
-title: "Layout: Header Video"
+title: "[블로그 꾸미기] Header Video"
 header:
   video:
     id: XsxDH4HcOWA
     provider: youtube
 categories:
-  - Layout
+  - Blogsample
+  - 블로그 꾸미기
   - Uncategorized
 tags:
   - video

@@ -1,7 +1,8 @@
 ---
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
-categories:
-  - Markup
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - html
   - markup
