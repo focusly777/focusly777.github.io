@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Image (with Link)"
+title: "[블로그 꾸미기] Image (with Link)"
 categories: 
   - Blogsample
   - 블로그 꾸미기

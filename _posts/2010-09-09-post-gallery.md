@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Gallery"
+title: "[블로그 꾸미기] Gallery"
 categories: 
   - Blogsample
   - 블로그 꾸미기

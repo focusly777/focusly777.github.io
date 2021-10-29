@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Twitter Embed"
+title: "[블로그 꾸미기] Twitter Embed"
 categories: 
   - Blogsample
   - 블로그 꾸미기

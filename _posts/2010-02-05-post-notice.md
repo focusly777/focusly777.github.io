@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Notice"
+title: "[블로그 꾸미기] Notice"
 categories: 
   - Blogsample
   - 블로그 꾸미기

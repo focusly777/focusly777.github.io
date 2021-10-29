@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Quote"
+title: "[블로그 꾸미기] Quote"
 categories: 
   - Blogsample
   - 블로그 꾸미기

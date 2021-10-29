@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Comments Enabled"
+title: "[블로그 꾸미기] Comments Enabled"
 comments: true
 categories: 
   - Blogsample

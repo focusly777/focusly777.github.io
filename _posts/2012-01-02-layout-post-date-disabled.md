@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Post Date Disabled"
+title: "[블로그 꾸미기] Post Date Disabled"
 show_date: false
 categories: 
   - Blogsample
