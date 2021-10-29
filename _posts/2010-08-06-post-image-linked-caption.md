@@ -1,5 +1,5 @@
 ---
-title: "Post: Image (Linked with Caption)"
+title: "[블로그 꾸미기]: Image (Linked with Caption)"
 categories: 
   - Blogsample
   - 블로그 꾸미기

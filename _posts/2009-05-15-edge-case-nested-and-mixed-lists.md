@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "[블로그 꾸미기]: Nested and Mixed Lists"
 categories: 
   - Blogsample
   - 블로그 꾸미기

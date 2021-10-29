@@ -1,5 +1,5 @@
 ---
-title: "Antidisestablishmentarianism"
+title: "[블로그 꾸미기] Antidisestablishmentarianism"
 categories: 
   - Blogsample
   - 블로그 꾸미기

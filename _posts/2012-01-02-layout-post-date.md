@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post Date Enabled"
+title: "[블로그 꾸미기]: Post Date Enabled"
 show_date: true
 categories: 
   - Blogsample

@@ -1,5 +1,5 @@
 ---
-title: "Layout: Read Time Enabled"
+title: "[블로그 꾸미기]: Read Time Enabled"
 read_time: true
 categories: 
   - Blogsample

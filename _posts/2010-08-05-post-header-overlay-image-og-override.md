@@ -1,5 +1,5 @@
 ---
-title: "Post: Overlay Image with OpenGraph Override"
+title: "[블로그 꾸미기]: Overlay Image with OpenGraph Override"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   og_image: /assets/images/page-header-og-image.png

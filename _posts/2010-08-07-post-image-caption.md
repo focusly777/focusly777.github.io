@@ -1,5 +1,5 @@
 ---
-title: "Post: Image (Caption)"
+title: "[블로그 꾸미기]: Image (Caption)"
 categories: 
   - Blogsample
   - 블로그 꾸미기

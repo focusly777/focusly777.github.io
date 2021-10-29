@@ -1,5 +1,5 @@
 ---
-title: "Layout: Comments Disabled"
+title: "[블로그 꾸미기]: Comments Disabled"
 comments: false
 categories: 
   - Blogsample

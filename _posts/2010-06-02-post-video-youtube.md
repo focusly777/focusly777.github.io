@@ -1,5 +1,5 @@
 ---
-title: "Post: Video (YouTube)"
+title: "[블로그 꾸미기]: Video (YouTube)"
 categories: 
   - Blogsample
   - 블로그 꾸미기
