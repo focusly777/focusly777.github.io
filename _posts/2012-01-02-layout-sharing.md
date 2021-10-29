@@ -1,5 +1,5 @@
 ---
-title: "[블로그 꾸미기]: Social Sharing Links Enabled"
+title: "[블로그 꾸미기] Social Sharing Links Enabled"
 share: true
 categories: 
   - Blogsample
