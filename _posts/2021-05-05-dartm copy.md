@@ -2,8 +2,10 @@
 title: "[dart문법]변수의 타입"
 categories:
   - dart
+  - dart-변수
 tags:
   - dart 문법
+  - 변수
 toc: true
 toc_sticky: true
 ---
