@@ -23,3 +23,5 @@ tags: javascript 자바스크립트 toFixed
   ```javascript
   number.toFixed(2).replace(/(0+$)/, "");
   ```
+
+

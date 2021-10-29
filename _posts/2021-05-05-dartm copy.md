@@ -31,37 +31,9 @@ List<String> flybyObjects = ['Jupiter', 'Saturn', 'Uranus', 'Neptune']; // 문�
 Map image = {
 'tags': ['saturn'],
 'url': '//path/to/saturn.jpg'
-};
-```  // 타입이 지정된 변수
+};// 타입이 지정된 변수
+
+```  
 
 
-
-
-
-```dart
-int timesTwo(int x) {
-  return x * 2;
-}
-
-int timesFour(int x) { 
-  return timesTwo(timesTwo(x));
-}
-
-
-
-int runTwice(int x, Function f) {
-   x = f(x);
-   x = f(x);
-  return x;
-}
-
-main() {
-  
-  
-  print("4 times two is ${timesTwo(4)}");
-  print("4 times four is ${timesFour(4)}");
-  print("2 x 2 x 2 is ${runTwice(2, timesTwo)}");
-  
-}
-```
  
