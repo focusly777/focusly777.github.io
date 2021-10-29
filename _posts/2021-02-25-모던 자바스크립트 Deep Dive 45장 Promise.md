@@ -1,6 +1,7 @@
 ---
 title: "[책요약] 모던 자바스크립트 Deep Dive 45장 Promise"
 date: 2021-02-25
+show_date: true
 categories: book
 tags: book 모던자바스크립트deepdive javascript promise
 ---

@@ -1,6 +1,7 @@
 ---
 title: '[jekyll] jekyll 블로그에 google analytics 적용하기'
 date: 2020-02-19T00:00:00.000Z
+show_date: true
 categories: jekyll
 tags: jekyll google-analytics
 published: true

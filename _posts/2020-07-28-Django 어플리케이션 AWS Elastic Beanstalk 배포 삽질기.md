@@ -1,6 +1,7 @@
 ---
 title: "Django 어플리케이션 AWS Elastic Beanstalk 배포 삽질기"
 date: 2020-07-28
+show_date: true
 categories: django
 tags: django aws beanstalk 장고 빈스톡
 ---

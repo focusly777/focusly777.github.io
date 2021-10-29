@@ -1,6 +1,7 @@
 ---
 title: "[css] border: 0; 과 border: none; 차이점"
 date: 2020-02-19
+show_date: true
 categories: css
 tags: css
 ---
