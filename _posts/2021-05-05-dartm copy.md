@@ -1,5 +1,5 @@
 ---
-title: "dart문법 기초(쓰는중)"
+title: "[dart문법]변수의 타입"
 categories:
   - dart
 tags:
