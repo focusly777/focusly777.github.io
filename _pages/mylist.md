@@ -1,7 +1,6 @@
 ---
 title: "My List"
 layout: archive
-permalink: /mylist/
 toc: true
 toc_sticky: true
 ---
