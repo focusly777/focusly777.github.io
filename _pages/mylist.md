@@ -1,6 +1,6 @@
 ---
 title: "My List"
-layout: post
+layout: archive
 toc: true
 toc_sticky: true
 ---
