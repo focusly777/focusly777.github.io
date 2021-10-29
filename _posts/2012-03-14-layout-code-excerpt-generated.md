@@ -1,8 +1,8 @@
 ---
 title: "Layout: Code Excerpt (Generated)"
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - content
   - excerpt

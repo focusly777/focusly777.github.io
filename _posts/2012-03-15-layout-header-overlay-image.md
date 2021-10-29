@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Image Overlay"
+title: "[블로그 꾸미기] Header Image Overlay"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -8,9 +8,9 @@ header:
       url: "https://github.com"
     - label: "Call to action 2"
       url: "https://mademistakes.com"
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - edge case
   - image

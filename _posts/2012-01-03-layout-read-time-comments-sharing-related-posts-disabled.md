@@ -4,9 +4,9 @@ read_time: false
 comments: false
 share: false
 related: false
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - related posts
   - social

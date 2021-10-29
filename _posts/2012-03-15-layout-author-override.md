@@ -2,6 +2,9 @@
 title: "Layout: Author Override"
 author: Billy Rick
 excerpt: "A post to test author overrides using a data file."
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 ---
 
 Sites that may have content authored from various individuals can be accommodated by using [data files](https://jekyllrb.com/docs/datafiles/).

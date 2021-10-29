@@ -3,6 +3,9 @@ title: "Layout: Header Image and Text Readability"
 header:
   image: /assets/images/unsplash-image-4.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags: 
   - sample post
   - readability

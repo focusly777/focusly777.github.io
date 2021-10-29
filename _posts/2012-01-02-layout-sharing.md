@@ -1,9 +1,9 @@
 ---
 title: "Layout: Social Sharing Links Enabled"
 share: true
-categories:
-  - Layout
-  - Uncategorized
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - social
   - layout

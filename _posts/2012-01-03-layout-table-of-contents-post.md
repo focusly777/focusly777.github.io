@@ -3,6 +3,9 @@ title: "Layout: Post with Table of Contents"
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+categories: 
+  - Blogsample
+  - 블로그 꾸미기
 tags:
   - table of contents
 toc: true
