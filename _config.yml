@@ -113,7 +113,7 @@ author:
       url: "mailto:yuju@focusly.io"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://yuju-eom.myportfolio.com/"
+      url: "http://www.aboutuju.site"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
