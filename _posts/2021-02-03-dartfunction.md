@@ -23,7 +23,7 @@ dart를 이용해서 'hello uju'를 출력해보자
 
 
 
-이때 'pint'라는 기능을 사용해야하는데 이러한 print같은 것들을 function이라고 부른다.
+이때 'print'라는 기능을 사용해야하는데 이러한 print같은 것들을 function이라고 부른다.
 
 
 
