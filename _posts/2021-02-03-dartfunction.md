@@ -47,7 +47,7 @@ main(){
 
 
 
-![function_dart](/Users/kyoungeun/Desktop/proj/focusly777.github.io-six/assets/img/function_dart.png)
+![function_dart](/assets/img/function_dart.png)
 
 ```dart
 main(){
