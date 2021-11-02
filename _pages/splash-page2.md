@@ -7,8 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "ART + TECH + HEART, <br>
-  고대그리스시절(플라톤, 피타고라스 등)부터<br>
+excerpt: "고대그리스시절(플라톤, 피타고라스 등)부터<br>
  중세 르네상스시절(레오나르도 다빈치,미켈란젤로)까지<br> 
  아름다움을 연구하는 예술가와,  기술을연구하는 과학기술자와,  철학(사랑과 자유에 대한 연구를 하는)자는<br>
  지금처럼 분리되어있지 않았습니다. 
