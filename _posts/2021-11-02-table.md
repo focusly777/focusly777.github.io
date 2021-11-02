@@ -1,8 +1,6 @@
 ---
 show_date: false
 share: false
-categories:
-  - table
 ---
 
 
