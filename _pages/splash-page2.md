@@ -22,11 +22,11 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "시리즈 1 "
-    title: "거스를수없는 메타버스, 어떻게 나아가야하는가,"
-    excerpt: "(메타버스가 도래할시점은 언제인가등 메타버스에 대한이야기로 시작) 2021년 12월또는 2022년 1월 중 연재"
+    title: "1부 메타버스, 어떻게 나아가야하는가,"
+    excerpt: "(메타버스란 무엇이며, 메타버스가 도래할시점은 언제인가등 메타버스에 대한이야기로 시작) 2021년 12월또는 2022년 1월 중 연재"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "시리즈2"
-    title: "태초에 아름다움이 있었다."
+    title: "특이점이 오기전에 펜듈럼을 캐치하기"
     excerpt: "2022년 1월중 연재"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "완전한 자유와 완전한 구속"
