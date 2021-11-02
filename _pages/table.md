@@ -1,4 +1,5 @@
 ---
+title: "mytable"
 layout: pages
 ---
 
