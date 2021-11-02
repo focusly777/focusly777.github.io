@@ -1,6 +1,6 @@
 ---
-show_date: false
-share: false
+toc: true
+toc_sticky: true
 ---
 
 
