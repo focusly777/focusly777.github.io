@@ -21,19 +21,19 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "시리즈 1 (12월중 게시)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "시리즈 1 "
+    title: "시리즈 1 "
+    excerpt: "2021년 12월또는 2022년 1월 중 연재"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "시리즈 2(2022년 1월중 게시)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "시리즈2"
+    title: "시리즈 2"
+    excerpt: "2022년 1월중 연재"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "시리즈 3 2022년 2월중 게시"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "시리즈 3 "
+    excerpt: "2022년 2월중 연재"
 
 
 {% include feature_row id="intro" type="center" %}
