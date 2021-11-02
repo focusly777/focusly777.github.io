@@ -28,9 +28,6 @@ feature_row:
     alt: "시리즈2"
     title: "태초에 아름다움이 있었다."
     excerpt: "2022년 1월중 연재"
-    url: "#"
-    btn_label: "Coming soon"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "완전한 자유와 완전한 구속"
     excerpt: "2022년 2월중 연재"
