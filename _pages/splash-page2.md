@@ -1,6 +1,6 @@
 ---
 title: "Splash Page2"
-layout: pages
+layout: splash
 permalink: /splash-page2/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -8,10 +8,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Learn More"
-      url: "/terms/"
+    - label: "Read more"
+      url: "https://focusly777.github.io/categories/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "ART + TECH + HEART, 예술과 기술 그리고 사랑과 자유를 연구하는 인문학은 그 근원을 타고 올라가보면 결국 하나라는 걸 알수있습니다.
+
+고대그리스시절(플라톤, 피타고라스 등)부터 중세 르네상스시절(레오나르도 다빈치,미켈란젤로)까지 아름다움을 연구하는 예술가와 기술을연구하는 과학기술자와 철학(사랑과 자유에 대한 연구를 하는)자는 분리되어있지 않았습니다. 어떤사람은 아름다움만 연구하고 어떤사람은 과학기술만 연구하고 어떤사람은 철학만연구한다면, 본질을 잊게 되버리죠.   "
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
