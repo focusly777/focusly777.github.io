@@ -35,6 +35,7 @@ feature_row:
     title: "시리즈 3 "
     excerpt: "2022년 2월중 연재"
 
+---
 
 {% include feature_row id="intro" type="center" %}
 
