@@ -7,10 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Read more"
-      url: "https://focusly777.github.io/categories/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "ART + TECH + HEART, <br>
   고대그리스시절(플라톤, 피타고라스 등)부터<br>
  중세 르네상스시절(레오나르도 다빈치,미켈란젤로)까지<br> 
