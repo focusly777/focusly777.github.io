@@ -1,6 +1,6 @@
 ---
 title: "Splash Page2"
-layout: splash
+layout: pages
 permalink: /splash-page2/
 date: 2016-03-23T11:48:41-04:00
 header:
