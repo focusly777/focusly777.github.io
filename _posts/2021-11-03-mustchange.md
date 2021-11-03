@@ -45,12 +45,12 @@ hwp는 구시대적 소프트웨어인데, <br>
 1. 먼저 개선요구사항리스트가 현 스타트업 **대표님들의 의견을 모두 받아서 완성이되면**, 
 2. 여러 대표님들의 **서명들을 하단에 첨부해서 창업진흥원에 공문등 여러 방법으로 전송할예정**입니다.<br><br>
 
-## 추가 내용을 아래 구글폼을 통해서 입력해주세요.
+### 추가 내용을 아래 구글폼을 통해서 입력해주세요.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgerzAMzsEy-aFfnggPudGyBfN3lh2RgS7Eag702dXxj8pMA/viewform?embedded=true" width="100%" height="501" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe><br><br>
 
 
-문의사항 
+### 문의사항 
 -  [Seed~PreA 단계 스타트업 비공개 관계자 네트워킹모임](https://open.kakao.com/o/gqjpsglc)
 -  [yuju@focusly.io](mailto:yuju@focusly.io)
 -  [http://www.aboutuju.site](http://www.aboutuju.site)
