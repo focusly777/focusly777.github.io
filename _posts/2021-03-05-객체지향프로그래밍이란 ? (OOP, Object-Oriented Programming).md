@@ -1,6 +1,7 @@
 ---
 title : "객체지향프로그래밍이란 ? (OOP, Object-Oriented Programming)"
 show_date: true
+permalink: /oop-dart/
 categories: 
   - 객체지향프로그래밍
 tags: 

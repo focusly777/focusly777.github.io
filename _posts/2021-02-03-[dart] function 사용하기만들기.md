@@ -1,6 +1,7 @@
 ---
 title: "[dart] function 사용하기/만들기"
 show_date: true
+permalink: /function-dart/
 categories:
   - dart
   - flutter

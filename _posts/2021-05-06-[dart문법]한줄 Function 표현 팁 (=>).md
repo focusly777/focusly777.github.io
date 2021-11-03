@@ -2,6 +2,7 @@
 title: "[dart문법]한줄 Function 표현 팁 (=>)"
 show_date: true
 share: false
+permalink: /onelinefunction-dart/
 categories:
   - dart
   - dart-function

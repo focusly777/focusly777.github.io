@@ -2,6 +2,7 @@
 title: "[flutter]text 타이핑 애니메이션과 자동스크롤 기능 구현하기"
 show_date: true
 share: false
+permalink: /flutter-text-animation/
 categories:
   - dart
   - flutter
