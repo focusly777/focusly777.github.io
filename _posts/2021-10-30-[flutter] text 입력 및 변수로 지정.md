@@ -2,6 +2,7 @@
 title: "[flutter] text 입력 및 변수로 지정"
 show_date: true
 share: false
+permalink: /var-text-dart/
 categories:
   - dart
   - flutter
