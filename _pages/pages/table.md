@@ -1,6 +1,7 @@
 ---
 title: "mytable"
 layout: pages
+permalink: /table/
 ---
 
 # <a href="https://docs.google.com/presentation/d/1WgC81H9IM1CpvJN6Rwau5ybORDJvgW8p3w4_08YdX8g/edit?usp=sharing" target="_blank"> My table </a>
