@@ -43,7 +43,7 @@ hwp는 구시대적 소프트웨어인데, <br>
 
 ### 추가 내용을 아래 구글폼을 통해서 입력해주세요.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgerzAMzsEy-aFfnggPudGyBfN3lh2RgS7Eag702dXxj8pMA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe><br><br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgerzAMzsEy-aFfnggPudGyBfN3lh2RgS7Eag702dXxj8pMA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe><br>
 
 
 ### 문의사항 
