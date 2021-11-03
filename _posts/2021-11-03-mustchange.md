@@ -51,4 +51,4 @@ hwp는 구시대적 소프트웨어인데, <br>
 문의사항 
 -  [Seed~PreA 단계 스타트업 비공개 관계자 네트워킹모임](https://open.kakao.com/o/gqjpsglc)
 -  yuju@focusly.io
--  http://www.aboutuju.site
+-  [http://www.aboutuju.site](http://www.aboutuju.site)
