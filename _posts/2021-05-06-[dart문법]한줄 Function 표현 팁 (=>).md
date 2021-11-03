@@ -5,7 +5,6 @@ share: false
 permalink: /onelinefunction-dart/
 categories:
   - dart
-  - dart-function
 tags:
   - dart 문법
   - function
@@ -29,7 +28,7 @@ int timesTwo(int x) {
 
  ```dart
 int timesTwo(int x)   => x * 2;
-```
+ ```
 
 끝!
 
@@ -43,4 +42,4 @@ int timesTwo(int x) {
 int timesTwo(int x)   => x * 2;
 //위 함수와 동일한 함수가 되지만 간단하게 표현가능하다.
 
-```
+ ```
