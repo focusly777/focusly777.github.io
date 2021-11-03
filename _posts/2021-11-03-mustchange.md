@@ -51,6 +51,6 @@ hwp는 구시대적 소프트웨어인데, <br>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2fjCPZ9UeCmyYo9p7fltzehmSTHgConoGXqUa_HTLYJHv3owefC4hK9n43Jo2icFPzKlqC3luNW8M/pubhtml?widget=true&amp;headers=false" width="100%" height="800" ></iframe>
 
 ### 문의사항 
--  [Seed~PreA 단계 스타트업 비공개 관계자 네트워킹모임](https://open.kakao.com/o/gqjpsglc)
+-  [Seed~PreA 단계 스타트업 관계자 비공개 네트워킹모임](https://open.kakao.com/o/gqjpsglc)
 -  [yuju@focusly.io](mailto:yuju@focusly.io)
 -  [http://www.aboutuju.site](http://www.aboutuju.site)
