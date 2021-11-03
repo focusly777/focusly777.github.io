@@ -2,7 +2,7 @@
 title: "[블로그 꾸미기]Markup: Text Readability Test"
 excerpt: "A bunch of text to test readability."
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags: 
   - sample post

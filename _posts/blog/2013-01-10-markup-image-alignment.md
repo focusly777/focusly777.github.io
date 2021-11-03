@@ -1,7 +1,7 @@
 ---
 title: "[블로그 꾸미기]Markup: Image Alignment"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - alignment

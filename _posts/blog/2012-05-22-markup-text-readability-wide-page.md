@@ -3,7 +3,7 @@ title: "[블로그 꾸미기]Wide Single Layout Page"
 classes: wide
 excerpt: "A page with `classes: wide` set to expand the main content's width."
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags: 
   - sample post

@@ -3,7 +3,7 @@ title: "[블로그 꾸미기] Author Sidebar Disabled"
 excerpt: "A post to test disabling author sidebar."
 author_profile: false
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 ---
 

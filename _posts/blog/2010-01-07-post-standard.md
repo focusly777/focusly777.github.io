@@ -2,7 +2,7 @@
 title: "[블로그 꾸미기] Standard"
 excerpt_separator: "<!--more-->"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - Post Formats

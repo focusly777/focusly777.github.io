@@ -1,7 +1,7 @@
 ---
 title: "[블로그 꾸미기] Post with Nested Table of Contents via Helper"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - table of contents

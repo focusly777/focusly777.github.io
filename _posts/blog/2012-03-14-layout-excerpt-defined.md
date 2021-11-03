@@ -2,7 +2,7 @@
 title: "[블로그 꾸미기] Excerpt (Defined)"
 excerpt: "This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages."
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - content

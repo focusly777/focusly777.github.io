@@ -5,7 +5,7 @@ last_modified_at: 2018-01-03T09:45:06-05:00
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags: 
   - code

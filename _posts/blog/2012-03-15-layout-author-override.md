@@ -3,7 +3,7 @@ title: "[블로그 꾸미기] Author Override"
 author: Billy Rick
 excerpt: "A post to test author overrides using a data file."
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 ---
 

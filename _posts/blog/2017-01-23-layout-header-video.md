@@ -5,7 +5,7 @@ header:
     id: XsxDH4HcOWA
     provider: youtube
 categories:
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
   - Uncategorized
 tags:

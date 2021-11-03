@@ -2,7 +2,7 @@
 title: "[블로그 꾸미기] Related Posts Disabled"
 related: false
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - related posts

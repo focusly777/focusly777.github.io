@@ -4,7 +4,7 @@ header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - table of contents

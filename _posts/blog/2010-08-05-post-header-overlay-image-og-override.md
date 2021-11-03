@@ -8,7 +8,7 @@ header:
     - label: "Learn More"
       url: "https://unsplash.com"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - edge case

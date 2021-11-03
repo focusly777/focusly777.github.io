@@ -1,6 +1,6 @@
 ---
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - edge case

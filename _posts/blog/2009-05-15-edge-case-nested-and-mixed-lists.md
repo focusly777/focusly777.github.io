@@ -1,7 +1,7 @@
 ---
 title: "[블로그 꾸미기] Nested and Mixed Lists"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - content

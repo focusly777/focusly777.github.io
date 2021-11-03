@@ -2,7 +2,7 @@
 title: "[블로그 꾸미기] Sidebar Custom"
 excerpt: "A post with custom sidebar content."
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 sidebar:
   - title: "Title"

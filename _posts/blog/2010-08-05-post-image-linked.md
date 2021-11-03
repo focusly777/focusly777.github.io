@@ -1,7 +1,7 @@
 ---
 title: "[블로그 꾸미기] Image (with Link)"
 categories: 
-  - Blogsample
+  - markdown
   - 블로그 꾸미기
 tags:
   - image
