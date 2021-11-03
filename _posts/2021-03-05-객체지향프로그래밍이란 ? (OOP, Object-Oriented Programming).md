@@ -17,7 +17,9 @@ toc_sticky: true
 
 ## CLASS 
 
-### CLASS란
+### CLASS에 대하여
+
+프로그래밍에 익숙하신 분들에게 Class라는 단어는 매우 익숙한 단어일 것입니다. 그 이유는 프로그래밍에 있어서 class라는 개념이 매우매우 중요하고 자주 사용되기 때문입니다. dart 역시 공식문서에서 *‘Dart is an object-oriented language with classes and mixin-based inheritance’*라고 소개하고 있을 만큼 class는 매우 중요한 요소입니다. 지금부터 하나하나씩 살펴보겠습니다.
 
 
 
