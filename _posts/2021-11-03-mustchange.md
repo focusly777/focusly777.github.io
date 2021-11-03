@@ -59,24 +59,3 @@ hwp는 구시대적 소프트웨어인데, <br>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2fjCPZ9UeCmyYo9p7fltzehmSTHgConoGXqUa_HTLYJHv3owefC4hK9n43Jo2icFPzKlqC3luNW8M/pubhtml?widget=true&amp;headers=false" width="100%" height="800" ></iframe>
 
-### 문의사항 
--  [Seed~PreA 단계 스타트업 관계자 비공개 네트워킹모임](https://open.kakao.com/o/gqjpsglc)
--  [yuju@focusly.io](mailto:yuju@focusly.io)
--  [http://www.aboutuju.site](http://www.aboutuju.site)
-
-
-
-
-
-## 놀란점
-
-
-
-> ![kakaotalk](/assets/img/kakaotalk.png)<br>그리고 정말 듣고 놀랐는데 제가 이런글을 쓰는 이유가 이게 사업아이템?이냐고 하셨던 분이 있었습니다.<br>하하하..<br>
-> 저는 이분말씀을 몇번을 곱씹어봐도 잘 이해가 되지 않아요 ...<br>어떻게 이런것이 사업아이템이 될수있을까요 그렇게도 할것이 없을까요. <br>저는 하고싶은게 너무나도 많아서 이런말씀을 들었을때 정말 놀랐습니다 <br>
-> 아무목적이란게  없어요....아 그렇진 않네요<br>
-> 불편한걸 참지 못하고  더나은 창업생태계가 되길바라는마음에 되든안되든 제가 다치든 안다치든 <br>
-> 더 나은방향으로 바뀔때 행복하고 희열을 느끼기때문에 , 일단 해보려구요.<br>
-> 그렇게 야비하고 비겁한 사업아이템을 만들바에 차라리 제가 개발일해서 취업할게요..  <br>
->
- <sup>그리고 댓글기능을 쓰면 좋을것 같은데 제가 직접 github에다가 minimalmistake라는 테마를 가지고 자체 호스팅을 하는 블로그라서 댓글기능을 넣으려면 또 많은 커스터마이징이 필요하기때문에도 그렇고 DB화도 번거롭고 그래서 안하고 있습니다. 하지만 조만간 하도록하겠습니다</sup>
