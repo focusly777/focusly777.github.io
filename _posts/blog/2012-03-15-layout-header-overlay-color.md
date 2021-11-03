@@ -3,8 +3,8 @@ title: "[블로그 꾸미기] Header Overlay with Background Fill"
 header:
   overlay_color: "#333"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - edge case
   - image

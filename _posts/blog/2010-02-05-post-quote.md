@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기] Quote"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - Post Formats
   - quote

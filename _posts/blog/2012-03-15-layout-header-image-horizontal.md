@@ -4,8 +4,8 @@ header:
   image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - edge case
   - featured image

@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기] Post with Sticky Table of Contents"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - table of contents
 toc: true

@@ -5,8 +5,8 @@ header:
     id: XsxDH4HcOWA
     provider: youtube
 categories:
-  - markdown
-  - 블로그 꾸미기
+
+
   - Uncategorized
 tags:
   - video

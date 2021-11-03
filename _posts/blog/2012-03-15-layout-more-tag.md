@@ -2,8 +2,8 @@
 title: "[블로그 꾸미기]Layout: More Tag"
 excerpt_separator: <!--more-->
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - content
   - read more

@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기] Image (Standard)"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - image
   - Post Formats

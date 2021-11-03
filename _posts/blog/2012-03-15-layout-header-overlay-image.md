@@ -9,8 +9,8 @@ header:
     - label: "Call to action 2"
       url: "https://mademistakes.com"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - edge case
   - image

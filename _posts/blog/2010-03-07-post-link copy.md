@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기] Link:https://github.com"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - link
   - Post Formats

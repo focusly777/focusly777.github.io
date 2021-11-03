@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기]  Post with multiline excerpt"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 ---
 
 Et ex ullamco duis don't

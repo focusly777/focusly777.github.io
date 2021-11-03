@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기] Antidisestablishmentarianism"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - content
   - css

@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기]Markup: Title with Special&nbsp;---&nbsp;Characters"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - html
   - markup

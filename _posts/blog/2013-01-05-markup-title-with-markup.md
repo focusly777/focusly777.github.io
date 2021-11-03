@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기]Markup: Title *with* **Markdown**"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - css
   - html

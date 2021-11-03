@@ -5,8 +5,8 @@ comments: false
 share: false
 related: false
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - related posts
   - social

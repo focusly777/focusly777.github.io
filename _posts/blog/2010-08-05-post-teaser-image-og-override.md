@@ -4,8 +4,8 @@ header:
   teaser: /assets/images/page-header-teaser.png
   og_image: /assets/images/page-header-og-image.png
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - edge case
   - image

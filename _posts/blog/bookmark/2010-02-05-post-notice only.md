@@ -1,8 +1,8 @@
 ---
 title: "[블로그 꾸미기] Notice only"
 categories: 
-  - markdown
-  - 블로그 꾸미기
+
+
 tags:
   - Post Formats
   - notice
