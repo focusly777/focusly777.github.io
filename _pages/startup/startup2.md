@@ -2,6 +2,7 @@
 title: "창업지원기관들들어주세요! (현스타트업 대표들이 진짜 바라는것들,현재정책들의 문제) "
 show_date: true
 layout: posts
+permalink: /startup2/
 toc: true
 toc_sticky: true
 ---
