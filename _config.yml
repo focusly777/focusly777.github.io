@@ -295,7 +295,7 @@ defaults:
 
 #side bar
 sidebar:
-  - title: "Title"
+  - title: "hi"
     image: http://placehold.it/350x250
     image_alt: "image"
     text: "Some text here."
