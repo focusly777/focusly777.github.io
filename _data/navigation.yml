@@ -34,7 +34,9 @@ main:
 docs:
   - title: TECH
     children:
-      - title: "Dart(객체지향언어,Flutter)"
+      - title: "객체지향언어"
+        url: https://focusly777.github.io/categories/#객체지향프로그래밍
+      - title: "dart"
         url: https://focusly777.github.io/categories/#dart
 
   - title: ART
