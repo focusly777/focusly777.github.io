@@ -34,9 +34,9 @@ main:
 docs:
   - title: ART
     children:
-      - title: "Quick-Start Guide"
+      - title: "Movies"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Books"
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
