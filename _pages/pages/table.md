@@ -2,6 +2,8 @@
 title: "mytable"
 layout: pages
 permalink: /table/
+toc: true
+toc_sticky: true
 ---
 
 
