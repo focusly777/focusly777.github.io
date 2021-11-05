@@ -34,16 +34,14 @@ main:
 docs:
   - title: (카테고리별보기)
     url: https://focusly777.github.io/categories/
-    
+
   - title: TECH
     children:
       - title: "Dart(객체지향언어,Flutter)"
         url: https://focusly777.github.io/categories/#dart
 
   - title: ART
-    children:
-      - title: "예술과 관련된 모든것"
-        url: https://focusly777.github.io/categories/#art
+    url: https://focusly777.github.io/categories/#art
 
   - title: HEART 
     children:
