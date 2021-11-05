@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "About UJU"
+    url: http://www.aboutuju.site
   - title: "About"
     url: /about/
   - title: "Sample Posts"
@@ -10,6 +10,18 @@ main:
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+
+#main:
+#  - title: "카테고리별 보기"
+#    url: https://focusly777.github.io/categories/
+  #- title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
 
 docs:
   - title: Getting Started
