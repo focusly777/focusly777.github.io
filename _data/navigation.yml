@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: http://www.aboutuju.site
-  - title: "카테고리"
-    url: https://focusly777.github.io/categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: Customization
