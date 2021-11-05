@@ -46,5 +46,5 @@ docs:
       - title: "(카테고리별 보기)"
         url: https://focusly777.github.io/categories/
               
-  - title: (카테고리별보기)
-    url: https://focusly777.github.io/categories/
+  # - title: (카테고리별보기)
+  #   url: https://focusly777.github.io/categories/
