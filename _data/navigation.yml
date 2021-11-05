@@ -32,39 +32,18 @@ main:
   #   url: /sitemap/
 
 docs:
+
+- title: TECH
+  children:
+    - title: "Dart(객체지향언어,Flutter)"
+      url: https://focusly777.github.io/categories/#dart
+
   - title: ART
     children:
-      - title: "Movies"
-        url: /docs/quick-start-guide/
-      - title: "Books"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "예술과 관련된 모든것"
+        url: https://focusly777.github.io/categories/#art
 
-  - title: TECH
+  - title: HEART (준비중)
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: HEART
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "-"
+        url: https://focusly777.github.io/categories/
