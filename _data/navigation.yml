@@ -32,7 +32,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Getting Started
+  - title: ART
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -43,7 +43,7 @@ docs:
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: TECH
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -56,7 +56,7 @@ docs:
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: HEART
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -68,10 +68,3 @@ docs:
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
