@@ -36,7 +36,8 @@ docs:
         url: https://focusly777.github.io/categories/#객체지향프로그래밍
       - title: "dart&flutter"
         url: https://focusly777.github.io/categories/#dart
-
+      - title: "기타 개발관련"
+        url: url: https://focusly777.github.io/categories/
   - title: ART & HEART
     children:
       - title: "예술"
