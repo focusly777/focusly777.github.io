@@ -6,7 +6,7 @@ permalink: /onelinefunction-dart/
 categories:
   - dart
 tags:
-  - dart 문법
+  - dart
   - function
 toc: true
 toc_sticky: true
