@@ -2,22 +2,22 @@
 main:
   - title: "About UJU"
     url: http://www.aboutuju.site
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: Customization
+  #   children:
+  #     - title: "Configuration"
+  #       url: /docs/configuration/
+  #     - title: "Navigation"
+  #       url: /docs/navigation/
+  #     - title: "UI Text"
+  #       url: /docs/ui-text/
+  #     - title: "Authors"
+  #       url: /docs/authors/
+  #     - title: "Layouts"
+  #       url: /docs/layouts/
 
 #main:
 #  - title: "카테고리별 보기"
