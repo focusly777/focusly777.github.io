@@ -32,10 +32,10 @@ main:
   #   url: /sitemap/
 
 docs:
-- title: TECH
-  children:
-    - title: "Dart(객체지향언어,Flutter)"
-      url: https://focusly777.github.io/categories/#dart
+  - title: TECH
+    children:
+      - title: "Dart(객체지향언어,Flutter)"
+        url: https://focusly777.github.io/categories/#dart
 
   - title: ART
     children:
