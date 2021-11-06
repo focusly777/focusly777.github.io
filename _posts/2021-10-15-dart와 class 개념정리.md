@@ -1,6 +1,5 @@
 ---
 title: "[dart] dart와 class개념정리"
-show_date: true
 permalink: /dart-class/
 categories: 
   - 객체지향프로그래밍
