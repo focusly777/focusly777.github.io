@@ -19,9 +19,6 @@ permalink: /app2/
 
 ## 어플리케이션 소개
 
-
-er
-
 ### 1. 아래와 같은 블로그글을 복사해서 앱에 붙여넣기하고, 우측상단 '대본보기'터치
 
 ![screenshot](/assets/img/screenshot.png)
