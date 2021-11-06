@@ -1,6 +1,6 @@
 ---
 title: "mytable"
-layout: pages
+layout: single
 permalink: /table/
 toc: true
 toc_sticky: true
