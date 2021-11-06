@@ -21,7 +21,7 @@ permalink: /app2/
 
 ### 1. 아래와 같은 블로그글을 복사해서 앱에 붙여넣기하고, 우측상단 '대본보기'터치
 
-![screenshot](/assets/img/screenshot.png)
+![app](/assets/img/app.png)
 
 ### 2. 붙여넣기한 글이 타이핑 되면서 올라옵니다. **(원하는속도로 조절가능)**  - **주의력향상, 집중력향상**
 
