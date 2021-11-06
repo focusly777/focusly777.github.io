@@ -1,5 +1,5 @@
 ---
-title: "긴 블로그글 쉽게 읽는<br> 클립리딩앱 무료배포예정"
+title: "긴 블로그글 쉽게 읽는 복붙 리딩앱 - 무료배포예정"
 categories: 
   - dart
   - flutter
