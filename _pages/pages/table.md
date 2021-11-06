@@ -1,6 +1,9 @@
 ---
 title: "mytable"
 layout: single
+author_profile: true
+sidebar:
+  nav: "docs"
 permalink: /table/
 toc: true
 toc_sticky: true
