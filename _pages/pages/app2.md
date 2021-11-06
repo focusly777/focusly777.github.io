@@ -1,5 +1,6 @@
 ---
 title: "긴 블로그글 쉽게 읽는 복붙 리딩앱 - 무료배포예정"
+layout: single
 categories: 
   - dart
   - flutter
