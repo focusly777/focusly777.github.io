@@ -1,6 +1,6 @@
 ---
 title: 창업지원기관들은 들어주세요.<br> (현 스타트업 대표들이 진짜 바라는것들,현재 정책들의 문제) - 업데이트중
-layout: archive
+layout: single
 toc: true
 toc_sticky: true
 show_date: true
