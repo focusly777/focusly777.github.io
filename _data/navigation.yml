@@ -41,8 +41,9 @@ docs:
       - title: "개발관련"
         url: https://focusly777.github.io/categories/#page-title
   - title: ART
+    url: https://focusly777.github.io/categories/#art
     children:
-      - title: "예술작품들"
+      - title: "ART관련"
         url: https://focusly777.github.io/categories/#art
       - title: "메타버스와 융합"
         url: https://focusly777.github.io/splash-page2/
