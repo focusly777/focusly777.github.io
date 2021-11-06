@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-#  name             : "UJU"
+  name             : "ART + TECH + HEAR"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ART + TECH + HEART"
+  # bio              : "ART + TECH + HEART"
   # location         : "Seoul"
   # email            :
   # links:
