@@ -1,5 +1,5 @@
 ---
-title: Edge Case
+title: Dart
 layout: category
 permalink: /categories/dart/
 taxonomy: dart
