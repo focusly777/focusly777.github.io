@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 show_date: true
 share: true
-permalink: /mustchange/
+permalink: /changestartups/
 categories:
   - startup
 tags:
