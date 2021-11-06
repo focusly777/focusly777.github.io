@@ -27,6 +27,3 @@ permalink: /app2/
 
 <iframe src="https://player.vimeo.com/video/643008349?h=91ff5597d3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1170" height="2532" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="복붙한 긴글 읽어주는 앱"></iframe>
 <iframe src="https://player.vimeo.com/video/643006708?h=9657563352&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1674" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="복붙한 긴글 쉽게 읽어주는 앱"></iframe>
-
-### 3. 소개 동영상
-<div style="padding:64.52% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/641959954?h=fc8f61e0d4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo sample"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
