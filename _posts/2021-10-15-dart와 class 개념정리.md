@@ -4,6 +4,7 @@ permalink: /dart-class/
 categories: 
   - 객체지향프로그래밍
   - dart
+  - flutter
 tags: 
   - flutter
   - 클래스
