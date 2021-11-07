@@ -22,7 +22,7 @@ toc_sticky: true
 
 - 주사위앱
 
-<img src="/Users/kyoungeun/Desktop/proj/focusly777.github.io-six/assets/img/diceapp.gif" alt="diceapp" style="zoom:100%;" />
+<img src="/assets/img/diceapp.gif" alt="diceapp" style="zoom:100%;" />
 
 ### Expanded
 
