@@ -18,7 +18,7 @@ toc_sticky: true
 
 ### 구글공식문서 [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
-  * [구글 공식문서 검색결과](https://flutter.dev/search?q=listile)
+  * [구글 공식문서 검색결과](https://flutter.dev/search?q=Listtile)
 
 ### 구글 유튜브 설명자료
 
