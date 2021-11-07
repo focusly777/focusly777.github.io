@@ -30,12 +30,12 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "시리즈 -  Dart&Flutter"
-    url: https://focusly777.github.io/categories/#dart-class
-    children:
-      - title: "void main & Scaffold"
-        url: https://focusly777.github.io/dartclass1/
-        
+  # - title: "시리즈 -  Dart&Flutter"
+  #   url: https://focusly777.github.io/categories/#dart-class
+  #   children:
+  #     - title: "void main & Scaffold"
+  #       url: https://focusly777.github.io/dartclass1/
+
   - title: TECH
     children:
       - title: "객체지향언어"
