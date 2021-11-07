@@ -16,18 +16,15 @@ toc_sticky: true
 ---
 
 
+### 구글공식문서 [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
+### 구글 유튜브 설명자료
 
+<iframe width="1800" height="1200" src="https://www.youtube.com/embed/l8dj0yPBvgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 회사명함앱 만들기 예시
-
-
-
-
+### 회사명함앱 만들기 예시 - 결과물
 
 <img src="/assets/img/focuslycard.png" alt="focuslycard" style="zoom:33%;" />
-
-
 
 ### 소스코드
 
