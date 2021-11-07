@@ -1,0 +1,209 @@
+---
+title: "[dart&flutter] Container "
+permalink: /dartclass-container/
+categories: 
+  - 객체지향프로그래밍
+  - dart
+  - flutter
+  - dart class
+tags: 
+  - flutter
+  - 클래스
+  - 객체지향
+  - class
+  - dart
+  - 강의
+  - 문법
+  - container
+toc: true
+toc_sticky: true
+---
+
+## void main()
+
+Dart를 실행시키면 가장 먼저 볼 수 있는 코드입니다. dart는 코드를 볼때 main 함수를 가장 먼저 실행시킵니다.
+
+**그렇기에 `class`를 `main`함수 밖에 만든 후, 이를 main에 넣어 줘야 실행이 됩니다.**
+
+
+
+## Scaffold : 화면의 도화지!
+
+그리고 일단 나머지는 생략하고 가장먼저 Scaffold 를 찾으세요.
+
+어플리케이션 전체가 하나의 스케치북이라면
+
+각각화면의 Scaffold가 있습니다. 화면마다 Scaffold가 도화지라고 생각하시면됩니다.
+
+우리는 일단 Scaffold부터 배워봅시다.
+
+Scaffold에서 우리는 무엇을을 넣을수있을까요?
+
+
+
+### Scaffold에 넣을수있는 Properties
+
+- [appBar](https://api.flutter.dev/flutter/material/Scaffold/appBar.html) → [PreferredSizeWidget](https://api.flutter.dev/flutter/widgets/PreferredSizeWidget-class.html)?
+
+  An app bar to display at the top of the scaffold.final
+
+- [backgroundColor](https://api.flutter.dev/flutter/material/Scaffold/backgroundColor.html) → [Color](https://api.flutter.dev/flutter/dart-ui/Color-class.html)?
+
+  The color of the [Material](https://api.flutter.dev/flutter/material/Material-class.html) widget that underlies the entire Scaffold. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/backgroundColor.html)final
+
+- [body](https://api.flutter.dev/flutter/material/Scaffold/body.html) → [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)?
+
+  The primary content of the scaffold. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/body.html)final
+
+- [bottomNavigationBar](https://api.flutter.dev/flutter/material/Scaffold/bottomNavigationBar.html) → [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)?
+
+  A bottom navigation bar to display at the bottom of the scaffold. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/bottomNavigationBar.html)final
+
+- [bottomSheet](https://api.flutter.dev/flutter/material/Scaffold/bottomSheet.html) → [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)?
+
+  The persistent bottom sheet to display. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/bottomSheet.html)final
+
+- [drawer](https://api.flutter.dev/flutter/material/Scaffold/drawer.html) → [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)?
+
+  A panel displayed to the side of the [body](https://api.flutter.dev/flutter/material/Scaffold/body.html), often hidden on mobile devices. Swipes in from either left-to-right ([TextDirection.ltr](https://api.flutter.dev/flutter/dart-ui/TextDirection-class.html)) or right-to-left ([TextDirection.rtl](https://api.flutter.dev/flutter/dart-ui/TextDirection-class.html)) [[...\]](https://api.flutter.dev/flutter/material/Scaffold/drawer.html)final
+
+- [drawerDragStartBehavior](https://api.flutter.dev/flutter/material/Scaffold/drawerDragStartBehavior.html) → [DragStartBehavior](https://api.flutter.dev/flutter/gestures/DragStartBehavior-class.html)
+
+  Determines the way that drag start behavior is handled. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/drawerDragStartBehavior.html)final
+
+- [drawerEdgeDragWidth](https://api.flutter.dev/flutter/material/Scaffold/drawerEdgeDragWidth.html) → [double](https://api.flutter.dev/flutter/dart-core/double-class.html)?
+
+  The width of the area within which a horizontal swipe will open the drawer. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/drawerEdgeDragWidth.html)final
+
+- [drawerEnableOpenDragGesture](https://api.flutter.dev/flutter/material/Scaffold/drawerEnableOpenDragGesture.html) → [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)
+
+  Determines if the [Scaffold.drawer](https://api.flutter.dev/flutter/material/Scaffold/drawer.html) can be opened with a drag gesture. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/drawerEnableOpenDragGesture.html)final
+
+- [drawerScrimColor](https://api.flutter.dev/flutter/material/Scaffold/drawerScrimColor.html) → [Color](https://api.flutter.dev/flutter/dart-ui/Color-class.html)?
+
+  The color to use for the scrim that obscures primary content while a drawer is open. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/drawerScrimColor.html)final
+
+- [endDrawer](https://api.flutter.dev/flutter/material/Scaffold/endDrawer.html) → [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)?
+
+  A panel displayed to the side of the [body](https://api.flutter.dev/flutter/material/Scaffold/body.html), often hidden on mobile devices. Swipes in from right-to-left ([TextDirection.ltr](https://api.flutter.dev/flutter/dart-ui/TextDirection-class.html)) or left-to-right ([TextDirection.rtl](https://api.flutter.dev/flutter/dart-ui/TextDirection-class.html)) [[...\]](https://api.flutter.dev/flutter/material/Scaffold/endDrawer.html)final
+
+- [endDrawerEnableOpenDragGesture](https://api.flutter.dev/flutter/material/Scaffold/endDrawerEnableOpenDragGesture.html) → [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)
+
+  Determines if the [Scaffold.endDrawer](https://api.flutter.dev/flutter/material/Scaffold/endDrawer.html) can be opened with a drag gesture. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/endDrawerEnableOpenDragGesture.html)final
+
+- [extendBody](https://api.flutter.dev/flutter/material/Scaffold/extendBody.html) → [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)
+
+  If true, and [bottomNavigationBar](https://api.flutter.dev/flutter/material/Scaffold/bottomNavigationBar.html) or [persistentFooterButtons](https://api.flutter.dev/flutter/material/Scaffold/persistentFooterButtons.html) is specified, then the [body](https://api.flutter.dev/flutter/material/Scaffold/body.html) extends to the bottom of the Scaffold, instead of only extending to the top of the [bottomNavigationBar](https://api.flutter.dev/flutter/material/Scaffold/bottomNavigationBar.html) or the [persistentFooterButtons](https://api.flutter.dev/flutter/material/Scaffold/persistentFooterButtons.html). [[...\]](https://api.flutter.dev/flutter/material/Scaffold/extendBody.html)final
+
+- [extendBodyBehindAppBar](https://api.flutter.dev/flutter/material/Scaffold/extendBodyBehindAppBar.html) → [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)
+
+  If true, and an [appBar](https://api.flutter.dev/flutter/material/Scaffold/appBar.html) is specified, then the height of the [body](https://api.flutter.dev/flutter/material/Scaffold/body.html) is extended to include the height of the app bar and the top of the body is aligned with the top of the app bar. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/extendBodyBehindAppBar.html)final
+
+- [floatingActionButton](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButton.html) → [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)?
+
+  A button displayed floating above [body](https://api.flutter.dev/flutter/material/Scaffold/body.html), in the bottom right corner. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButton.html)final
+
+- [floatingActionButtonAnimator](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButtonAnimator.html) → [FloatingActionButtonAnimator](https://api.flutter.dev/flutter/material/FloatingActionButtonAnimator-class.html)?
+
+  Animator to move the [floatingActionButton](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButton.html) to a new [floatingActionButtonLocation](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButtonLocation.html). [[...\]](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButtonAnimator.html)final
+
+- [floatingActionButtonLocation](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButtonLocation.html) → [FloatingActionButtonLocation](https://api.flutter.dev/flutter/material/FloatingActionButtonLocation-class.html)?
+
+  Responsible for determining where the [floatingActionButton](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButton.html) should go. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/floatingActionButtonLocation.html)final
+
+- *[hashCode](https://api.flutter.dev/flutter/widgets/Widget/hashCode.html)* → [int](https://api.flutter.dev/flutter/dart-core/int-class.html)
+
+  The hash code for this object. [[...\]](https://api.flutter.dev/flutter/widgets/Widget/hashCode.html)@[nonVirtual](https://api.flutter.dev/flutter/meta/nonVirtual-constant.html), read-only, inherited
+
+- *[key](https://api.flutter.dev/flutter/widgets/Widget/key.html)* → [Key](https://api.flutter.dev/flutter/foundation/Key-class.html)?
+
+  Controls how one widget replaces another widget in the tree. [[...\]](https://api.flutter.dev/flutter/widgets/Widget/key.html)final, inherited
+
+- [onDrawerChanged](https://api.flutter.dev/flutter/material/Scaffold/onDrawerChanged.html) → [DrawerCallback](https://api.flutter.dev/flutter/material/DrawerCallback.html)?
+
+  Optional callback that is called when the [Scaffold.drawer](https://api.flutter.dev/flutter/material/Scaffold/drawer.html) is opened or closed.final
+
+- [onEndDrawerChanged](https://api.flutter.dev/flutter/material/Scaffold/onEndDrawerChanged.html) → [DrawerCallback](https://api.flutter.dev/flutter/material/DrawerCallback.html)?
+
+  Optional callback that is called when the [Scaffold.endDrawer](https://api.flutter.dev/flutter/material/Scaffold/endDrawer.html) is opened or closed.final
+
+- [persistentFooterButtons](https://api.flutter.dev/flutter/material/Scaffold/persistentFooterButtons.html) → [List](https://api.flutter.dev/flutter/dart-core/List-class.html)<[Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)>?
+
+  A set of buttons that are displayed at the bottom of the scaffold. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/persistentFooterButtons.html)final
+
+- [primary](https://api.flutter.dev/flutter/material/Scaffold/primary.html) → [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)
+
+  Whether this scaffold is being displayed at the top of the screen. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/primary.html)final
+
+- [resizeToAvoidBottomInset](https://api.flutter.dev/flutter/material/Scaffold/resizeToAvoidBottomInset.html) → [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)?
+
+  If true the [body](https://api.flutter.dev/flutter/material/Scaffold/body.html) and the scaffold's floating widgets should size themselves to avoid the onscreen keyboard whose height is defined by the ambient [MediaQuery](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)'s [MediaQueryData.viewInsets](https://api.flutter.dev/flutter/widgets/MediaQueryData/viewInsets.html) `bottom` property. [[...\]](https://api.flutter.dev/flutter/material/Scaffold/resizeToAvoidBottomInset.html)final
+
+- [restorationId](https://api.flutter.dev/flutter/material/Scaffold/restorationId.html) → [String](https://api.flutter.dev/flutter/dart-core/String-class.html)?
+
+  Restoration ID to save and restore the state of the [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html). [[...\]](https://api.flutter.dev/flutter/material/Scaffold/restorationId.html)final
+
+- *[runtimeType](https://api.flutter.dev/flutter/dart-core/Object/runtimeType.html)* → [Type](https://api.flutter.dev/flutter/dart-core/Type-class.html)
+
+  A representation of the runtime type of the object.read-only, inherited
+
+
+
+<hr>
+
+정말 많이 있다. 
+
+근데 다 외울 필요는 없고 [flutter.io](https://api.flutter.dev/flutter/material/Scaffold-class.html) 공식문서를 필요할때마다 보면서 활용하면 된다.
+
+그중 자주쓰는 몇가지는 알아두면 좋을것 같다.
+
+
+
+#### Scaffold →  [backgroundColor](https://api.flutter.dev/flutter/material/Scaffold/backgroundColor.html) → [Color](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
+
+
+
+```dart
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.yellow,
+    );//Scaffold
+  }
+```
+
+
+
+
+
+#### Scaffold →  [body](https://api.flutter.dev/flutter/material/Scaffold/body.html) → <u>Center</u> [*(Widget)*](https://api.flutter.dev/flutter/widgets/Widget-class.html)  
+
+
+
+
+
+```dart
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: Text(
+          "클로이의 어플리케이션에 오신걸 환영합니다.",
+        ),//Text
+      ), //Center
+    );//Scaffold
+  }
+```
+
+
+
+
+
+#### Scaffold → [appBar](https://api.flutter.dev/flutter/material/Scaffold/appBar.html) →AppBar
+
+```dart
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: const Text('클로이의 인생 영화'))//AppBar
+      	);//Scaffold
+      }
+```
+
