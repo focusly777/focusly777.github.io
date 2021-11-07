@@ -1,7 +1,6 @@
 ---
 title: "[dart&flutter] Container "
 permalink: /dartclass-container/
-layout: archive
 categories: 
   - 객체지향프로그래밍
   - dart
