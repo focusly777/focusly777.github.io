@@ -9,8 +9,6 @@ categories:
   - dart class
 tags: 
   - flutter
-  - 클래스
-  - 객체지향
   - class
   - dart
   - 강의
@@ -31,5 +29,5 @@ toc_sticky: false
 <iframe width="1800" height="1200" src="https://www.youtube.com/embed/c1xLMaTUWCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### [Flutter - 공식문서 - Container](https://api.flutter.dev/flutter/widgets/Container-class.html)
- 
+
 
