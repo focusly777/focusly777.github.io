@@ -23,7 +23,7 @@ toc_sticky: true
 
 - 완성된 주사위앱
 
-<img align="center" src="/assets/img/diceapp.gif"  alt="diceapp" style="zoom:100%;" />
+<img src="/assets/img/diceapp.gif"  alt="diceapp" style="float: center;" />
 
 ### Expanded
 
