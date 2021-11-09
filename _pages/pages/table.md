@@ -11,6 +11,13 @@ sidebar:
    nav: "docs"
 ---
 
+## Now
+
+### Dr. Angela Yu
+
+- 안젤라 강의듣기
+- 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTePcB1I8-QvARsrwk5UL1vrHdOJh7PDDuG3U7C6aQhlKmvgSJHXj-hIb8YafTeHJeuSdv3uyI9GL7/pubhtml?widget=true&amp;headers=false" width="100%" height="1100" ></iframe>
 
 
 ## Flutter
@@ -53,6 +60,9 @@ sidebar:
 
 
 ## <a href="https://docs.google.com/presentation/d/1WgC81H9IM1CpvJN6Rwau5ybORDJvgW8p3w4_08YdX8g/edit?usp=sharing" target="_blank"> My table </a>
+
+
+
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ51BUoR8lJ4W1iQqqVEISPIP0GNA0Hkp2cfD_6_dllLL_GzoJLo_plCi0gF3_yIZPeS92JioFN0mbe/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="1100" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
