@@ -100,8 +100,9 @@ toc_sticky: true
 
 ## **정책/지원**
 
-| **코리아스타트업포럼, 온라인 플랫폼 규제 입법 중단 [촉구](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9uZXdzLm10LmNvLmtyL210dmlldy5waHA_bm89MjAyMTExMDQxNjA1MTIzMzMxNA)** |
+| 정책/지원 |
 | ------------------------------------------------------------ |
+| **코리아스타트업포럼, 온라인 플랫폼 규제 입법 중단 [촉구](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9uZXdzLm10LmNvLmtyL210dmlldy5waHA_bm89MjAyMTExMDQxNjA1MTIzMzMxNA)** |
 | **원격의료산업협의회, 보건복지부 비대면 진료 유지 [환영](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cua3VraW5ld3MuY29tL25ld3NWaWV3L2t1azIwMjExMDMxMDA3OQ)** |
 | **공정위, 변협의 '로톡' 고발 내용 전부 무혐의 [판정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTA1)** |
 | **금융위, 마이데이터 정보 제공 19세 이상으로 [제한](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzA0LTUyLw)** |
@@ -116,8 +117,9 @@ toc_sticky: true
 
 ## **업계동향**
 
-| **하이브-두나무, NFT 사업 파트너십 구축, 상호 지분 [투자](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3RlY2hfaXQvMjAyMS8xMS8wNC9CM1hDQjNNRkhaQVhSQVBDWlhZTVlZRldGTS8)** |
+| 업계동향 |
 | ------------------------------------------------------------ |
+| **하이브-두나무, NFT 사업 파트너십 구축, 상호 지분 [투자](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3RlY2hfaXQvMjAyMS8xMS8wNC9CM1hDQjNNRkhaQVhSQVBDWlhZTVlZRldGTS8)** |
 | **카카오게임즈, NFT 거래소 개발 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSViNCVlYyViOSViNCVlYyU5OCVhNCVlYSViMiU4YyVlYyU5ZSU4NCVlYyVhNiU4OCVlYSViMCU4MC1uZnQtJWVhJWIxJWIwJWViJTllJTk4JWVjJTg2JThjLSVlYiVhNyU4YyVlYiU5MyU5YyVlYiU4YSU5NC0lZWMlOWQlYjQlZWMlOWMlYTAlZWIlOGElOTQtJWVhJWIyJThjJWVjJTllJTg0JWVjJTlkJTk4LSVlYiU4NCVhNSVlYyU4YSVhNC8)** |
 | **카카오재팬, '카카오픽코마'로 사명 변경, 프랑스 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDA0MA)** |
 | **위메이드, 위믹스플랫폼 통해 게임계 기축통화 지위 [목표](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMzAwMDE4MA)** |
