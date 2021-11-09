@@ -4,6 +4,8 @@ categories:
   - startup
 tags: 
   - startup
+  - 스타트업
+  - 뉴스
   - news
 toc: true
 toc_sticky: true
