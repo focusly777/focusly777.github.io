@@ -11,9 +11,8 @@ toc_sticky: true
 
 #### **출처 : STARTUP WEEKLY**
 
-
-
 ![news](/assets/img/news.jpg)
+[시드 ~ 시리즈A 스타트업,AC,VC,엔젤 커뮤니티](https://open.kakao.com/o/gqjpsglc)
 
 ## 국내뉴스
 
