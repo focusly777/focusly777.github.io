@@ -190,3 +190,8 @@ toc_sticky: true
 | 헝다, 유동성 위해 영국 전기차 스타트업 매각 [임박](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuaGFua3l1bmcuY29tL2Vjb25vbXkvYXJ0aWNsZS8yMDIxMTEwNDcwMzNZ) |
 | 샤오미, 선전에 1만번째 중국 샤오미 스토어 [개장](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MzE5) |
 
+
+
+출처 : 스타트업위클리
+
+[초기 시드 ~ 시리즈A 스타트업 & 엑셀러레이터 & 엔젤투자자 네트워킹 장](https://open.kakao.com/o/gqjpsglc)
