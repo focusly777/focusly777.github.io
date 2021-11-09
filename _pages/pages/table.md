@@ -20,6 +20,23 @@ sidebar:
     <p>내부에 넣을 내용을 입력해주세요</p>
 </details>
 
+1. Introduction to Cross-Platform Development with Flutter and Dart
+2. Setup and Installation
+3. I Am Rich - How to Create Flutter Apps From Scratch
+4. Running Your App on a Physical Device
+5. I Am Poor - App Challenge
+6. MiCard - How to Build Beautiful UIs with Flutter Widgets
+7. Dicee - Building Apps with State
+8. Boss Level Challenge 1 - Magic 8 Ball
+9. Xylophone - Using Flutter and Dart Packages to Speed Up Development
+10. Quizzler -Modularising & Organising Flutter Code
+11. Boss Level Challenge 2 - Destini
+12. dd
+    1.  [ThemeData class](https://api.flutter.dev/flutter/material/ThemeData-class.html)
+
+
+
+
 - 안젤라 강의듣기
   - [강의표](https://docs.google.com/spreadsheets/d/1hqUSEvrPuUe8kAxNftuOUIdfvcMFNzxBZX1mqN68PeE/edit?usp=sharing) 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTePcB1I8-QvARsrwk5UL1vrHdOJh7PDDuG3U7C6aQhlKmvgSJHXj-hIb8YafTeHJeuSdv3uyI9GL7/pubhtml?widget=true&amp;headers=false" width="100%" height="1000" ></iframe>
