@@ -9,13 +9,13 @@ toc: true
 toc_sticky: true
 ---
 
-## **출처 : STARTUP WEEKLY**
+# **출처 : STARTUP WEEKLY**
 
 ![news](/assets/img/news.jpg)
 
-## 국내뉴스
+# **국내뉴스**
 
-### 엑싯/투자
+## 엑싯/투자
 
 | 엑싯/투자                                                    |
 | ------------------------------------------------------------ |
@@ -54,16 +54,7 @@ toc_sticky: true
 | **소상공인 플랫폼 '더체크', 창업자 지분-경영권 매각 [추진](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy9lY29ub215L3ZpZXcvMjAyMS8xMC8xMDMwNjUzLw)** |
 |                                                              |
 
-### 스폰서드 포스팅
-
-| 스폰서드 포스팅                                              |
-| ------------------------------------------------------------ |
-| **AWS, 스타트업 위한 기술 및 비즈니스 지원 방안 [소개](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wYWdlcy5hd3NjbG91ZC5jb20vYXdzLXN0YXJ0dXAtaW5ub3ZhdGlvbi1sYWIuaHRtbD9zY19jaGFubmVsPWRhJnNjX2NhbXBhaWduPUFQQUNfRklFTERfV0VCSU5BUl9hd3NfaW5ub3ZhdGlvbl9sYWJfd2l0aF9tYXJ1XzM2MF8yMDIxMTEwM183MDE0ejAwMDAwMHJhMTgmc2NfbWVkaXVtPWRhJnNjX2NvbnRlbnQ9UkVHX3dlYmluYXJfc3RhcnR1cCZzY19nZW89YXBhYyZzY19jb3VudHJ5PWtyJnNjX291dGNvbWU9cmVnJnNjX3B1Ymxpc2hlcj13ZWVrbHkmdHJrQ2FtcGFpZ249YXBqa3JmeTIxcTRzdGFydHVwX21hcnUzNjBwcm9qZWN0JnRyaz1kYV8zcF9hd2Vla2x5Yl9meTIxcTRfYXdzX3N0YXJ0dXBfaW5ub3ZhdGlvbl9sYWI)** |
-| **리모트워크 온라인 컨퍼런스 '2022 일의 미래' 참가 [모집](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ldmVudC11cy5rci9mbGV4d29yay9ldmVudC8zOTM1Mw)** |
-| **2021 농산업 투자포럼 '그린바이오' 분야 IR 참여기업 [모집](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL2V2ZW50LXVzLmtyLzM4NTk0)** |
-|                                                              |
-
-### 성과/지표
+## 성과/지표
 
 | 카카오, 최초로 네이버 분기 매출 [추월](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzQtMTA4Lw) |
 | ------------------------------------------------------------ |
@@ -84,7 +75,7 @@ toc_sticky: true
 | **이커머스 운영 자동화 ‘아이클레이브’, 팁스 [선정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTEy)** |
 | **딥브레인AI, 중동 GITEX 2021 스타트업 대회 [우승](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTI0)** |
 
-### **출시/업데이트**
+## **출시/업데이트**
 
 | **출시/업데이트**                                            |
 | ------------------------------------------------------------ |
@@ -107,7 +98,7 @@ toc_sticky: true
 | **삼삼엠지, 주식 커뮤니티 플랫폼 ‘개미생활’ [런칭](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczNjUz)** |
 |                                                              |
 
-### **정책/지원**
+## **정책/지원**
 
 | **코리아스타트업포럼, 온라인 플랫폼 규제 입법 중단 [촉구](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9uZXdzLm10LmNvLmtyL210dmlldy5waHA_bm89MjAyMTExMDQxNjA1MTIzMzMxNA)** |
 | ------------------------------------------------------------ |
@@ -123,7 +114,7 @@ toc_sticky: true
 | **→2일 개관한 '마루360' [방문기](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwMzE2MDE1Nw)** |
 | **디캠프, 스타트업 거리 축제 IF2021 9일간 [개최](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuc3RhcnR1cHRvZGF5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MzI1MQ)** |
 
-### **업계동향**
+## **업계동향**
 
 | **하이브-두나무, NFT 사업 파트너십 구축, 상호 지분 [투자](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3RlY2hfaXQvMjAyMS8xMS8wNC9CM1hDQjNNRkhaQVhSQVBDWlhZTVlZRldGTS8)** |
 | ------------------------------------------------------------ |
@@ -155,7 +146,7 @@ toc_sticky: true
 | **뉴런모빌리티, 위험 주행-불법 주차 감지시스템 [개발](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDE1OQ)** |
 | **신생 항공사 '에어프레미아', 유명섭 신임 대표이사 [내정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNDQ3)** |
 
-### **기타**
+## **기타**
 
 | **배기홍 \| 뒷바람과 [앞바람](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3RhaWx3aW5kcy1hbmQtaGVhZHdpbmRzLmh0bWw)** |
 | ------------------------------------------------------------ |
