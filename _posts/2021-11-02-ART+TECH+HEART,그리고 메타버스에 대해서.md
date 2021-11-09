@@ -4,6 +4,7 @@ link: https://focusly777.github.io/splash-page2/
 permalink: /aboutmeta/
 categories:
   - 메타버스
+  - art
 tags:
   - 메타버스
 ---
