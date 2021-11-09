@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-#### **출처 : STARTUP WEEKLY**
+## **출처 : STARTUP WEEKLY**
 
 ![news](/assets/img/news.jpg)
 
