@@ -11,7 +11,7 @@ tags:
   - flutter
   - class
   - dart
-  - 안젤라
+  - Dr. Angela Yu
   - 강의
   - 문법
   - container

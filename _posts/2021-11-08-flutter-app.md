@@ -8,7 +8,7 @@ tags:
   - flutter
   - dart
   - 실로폰앱
-  - 안젤라
+  - Dr. Angela Yu
   - 함수
 toc: false
 toc_sticky: false
