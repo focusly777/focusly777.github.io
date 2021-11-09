@@ -7,4 +7,5 @@ categories:
   - art
 tags:
   - 메타버스
+  - meta
 ---
