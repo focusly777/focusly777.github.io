@@ -1,6 +1,6 @@
 ---
 title: "11월 1주차 STARTUP NEWS"
-layout: pages
+layout: splash
 categories: 
   - startup
 tags: 
