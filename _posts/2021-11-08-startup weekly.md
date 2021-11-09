@@ -52,7 +52,6 @@ toc_sticky: true
 | **산업은행-포스코, 1000억원 공동 스타트업 투자펀드 [조성](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9tLmV0bmV3cy5jb20vMjAyMTExMDQwMDAyMjQ)** |
 | **벤처캐피탈-액셀러레이터, 연이어 주식시장 상장 [추진](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMTAwMDIxOA)** |
 | **소상공인 플랫폼 '더체크', 창업자 지분-경영권 매각 [추진](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy9lY29ub215L3ZpZXcvMjAyMS8xMC8xMDMwNjUzLw)** |
-|                                                              |
 
 ## 성과/지표
 
@@ -97,7 +96,6 @@ toc_sticky: true
 | **키트랩, 소량제작 가능한 올커스텀 다이어리 상품 [런칭](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTYx)** |
 | **유스타팅, 통합 발명노트 플랫폼 ‘하루특허’ [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MDEy)** |
 | **삼삼엠지, 주식 커뮤니티 플랫폼 ‘개미생활’ [런칭](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczNjUz)** |
-|                                                              |
 
 ## **정책/지원**
 
