@@ -31,7 +31,7 @@ sidebar:
 9. Xylophone - Using Flutter and Dart Packages to Speed Up Development
 10. Quizzler -Modularising & Organising Flutter Code
 11. Boss Level Challenge 2 - Destini
-12. dd
+12. BMI Calculator - Building Flutter UI for Intermediates
     1.  [ThemeData class](https://api.flutter.dev/flutter/material/ThemeData-class.html)
 
 
