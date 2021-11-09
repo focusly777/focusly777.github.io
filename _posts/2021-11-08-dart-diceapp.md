@@ -21,9 +21,9 @@ toc_sticky: true
 
 ## 주사위앱 만들기를 통해 배울수있는 개념
 
-- 주사위앱
+- 완성된 주사위앱
 
-<img src="/assets/img/diceapp.gif" alt="diceapp" style="zoom:100%;" />
+<img align="center" src="/assets/img/diceapp.gif"  alt="diceapp" style="zoom:100%;" />
 
 ### Expanded
 
