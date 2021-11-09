@@ -40,6 +40,8 @@ sidebar:
 
 [Flutter GitHub 리포지토리](https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen)
 
+flutter 금주의 위젯
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### flutter dev
