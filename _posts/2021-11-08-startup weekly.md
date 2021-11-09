@@ -169,8 +169,9 @@ toc_sticky: true
 
 ## **해외뉴스**
 
-| **페이스북, 얼굴인식 기능 폐지, 보유 데이터도 [삭제](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy5haXRpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTQxMzI3)** |
+| 해외뉴스 |
 | ------------------------------------------------------------ |
+| **페이스북, 얼굴인식 기능 폐지, 보유 데이터도 [삭제](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy5haXRpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTQxMzI3)** |
 | **MS, 메타버스 기반 신제품 대거 [공개](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy93b3JsZC92aWV3LzIwMjEvMTEvMTA0MDIzMS8)** |
 | **MS, GPT-3 활용한 '애저 오픈 AI' 서비스 [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2dwdC0zLSVlYSViMCU4MCVlYyVhNyU4NC1tcy0lZWMlYjIlYWItJWVjJTgzJTgxJWVjJTlhJWE5LSVlYyU4NCU5YyVlYiViOSU4NCVlYyU4YSVhNC0lZWMlOTUlYTAlZWMlYTAlODAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVjJWI2JTljJWVjJThiJTljLw)** |
 | **MS, 자회사 깃허브 넷 프리드먼 CEO [사임](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwNDA3MTcyMQ)** |
