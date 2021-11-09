@@ -194,4 +194,4 @@ toc_sticky: true
 
 출처 : 스타트업위클리
 
-[초기 시드 ~ 시리즈A 스타트업 & 엑셀러레이터 & 엔젤투자자 네트워킹 장](https://open.kakao.com/o/gqjpsglc)
+[시드 ~ 시리즈A 스타트업,AC,VC,엔젤 커뮤니티](https://open.kakao.com/o/gqjpsglc)
