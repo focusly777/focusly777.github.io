@@ -1,5 +1,5 @@
 ---
-title: "[dart&flutter] List<String>,ListView"
+title: "[dart&flutter] List<String>,ListView,Dismissible"
 categories: 
   - dart
   - flutter
