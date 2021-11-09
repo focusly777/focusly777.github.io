@@ -170,6 +170,10 @@ comments : true
 
 
 
+핫키워드 : NFT
+
+
+
 **출처 : 스타트업위클리**
 
 <sup>[(초기스타트업,AC,VC,엔젤 커뮤니티)](https://open.kakao.com/o/gqjpsglc)</sup>
