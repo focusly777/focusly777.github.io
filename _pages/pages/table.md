@@ -15,6 +15,11 @@ sidebar:
 
 ### Dr. Angela Yu
 
+<details>
+    <summary>더 많은 내용</summary>
+    <p>내부에 넣을 내용을 입력해주세요</p>
+</details>
+
 - 안젤라 강의듣기
   - 강의표 
     1. ㅇ
