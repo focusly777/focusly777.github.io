@@ -56,8 +56,9 @@ toc_sticky: true
 
 ## 성과/지표
 
-| 카카오, 최초로 네이버 분기 매출 [추월](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzQtMTA4Lw) |
+| 성과/지표 |
 | ------------------------------------------------------------ |
+| 카카오, 최초로 네이버 분기 매출 [추월](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzQtMTA4Lw) |
 | **→카카오게임즈, '오딘'으로 분기 최고 실적 [달성](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzMtOTYv)** |
 | **네이버 클로바노트, 출시 1년 만에 가입자 100만명 [돌파](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNTAwMDAzNQ)** |
 | **리디, 글로벌 웹툰 서비스 ‘만타’ 300만 다운로드 [돌파](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MjYx)** |
