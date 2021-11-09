@@ -18,8 +18,6 @@ comments : true
 
 ## 엑싯/투자
 
- 엑싯/투자                                                    
- 
  **카카오페이 상장, 첫날 시총 13위 [등극](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvRWNvbm9teS9hcnRpY2xlL2FsbC8yMDIxMTEwMy8xMTAwNjgyNTAvMQ)** 
  **포티투닷, 1040억원 시리즈A 투자 [유치](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzItMTEyLw)** 
  **의료 AI 스타트업 '루닛', 720억원 프리IPO [추진](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuc2VkYWlseS5jb20vTmV3c1ZJZXcvMjJUVkg5QldJRA)** 
@@ -56,9 +54,7 @@ comments : true
 
 ## 성과/지표
 
- 성과/지표 
-  
- 카카오, 최초로 네이버 분기 매출 [추월](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzQtMTA4Lw) 
+ **카카오, 최초로 네이버 분기 매출 [추월](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzQtMTA4Lw) **
  **→카카오게임즈, '오딘'으로 분기 최고 실적 [달성](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzMtOTYv)** 
  **네이버 클로바노트, 출시 1년 만에 가입자 100만명 [돌파](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNTAwMDAzNQ)** 
  **리디, 글로벌 웹툰 서비스 ‘만타’ 300만 다운로드 [돌파](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MjYx)** 
@@ -78,8 +74,6 @@ comments : true
 
 ## **출시/업데이트**
 
- **출시/업데이트**                                            
-  
  **당근마켓, 간편결제 '당근페이' 제주에서 첫 [오픈](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MDAx)** 
  **중고거래 '알라딘마켓', 연내 매장 픽업 서비스 [오픈](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMjAwMDE3MQ)** 
  **우티, 새 앱 공개, 사전 확정 요금제 및 합승 서비스 [도입](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzEtMTE1My8)** 
@@ -100,8 +94,6 @@ comments : true
 
 ## **정책/지원**
 
- 정책/지원 
-  
  **코리아스타트업포럼, 온라인 플랫폼 규제 입법 중단 [촉구](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9uZXdzLm10LmNvLmtyL210dmlldy5waHA_bm89MjAyMTExMDQxNjA1MTIzMzMxNA)** 
  **원격의료산업협의회, 보건복지부 비대면 진료 유지 [환영](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cua3VraW5ld3MuY29tL25ld3NWaWV3L2t1azIwMjExMDMxMDA3OQ)** 
  **공정위, 변협의 '로톡' 고발 내용 전부 무혐의 [판정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTA1)** 
@@ -117,8 +109,6 @@ comments : true
 
 ## **업계동향**
 
- 업계동향 
-  
  **하이브-두나무, NFT 사업 파트너십 구축, 상호 지분 [투자](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3RlY2hfaXQvMjAyMS8xMS8wNC9CM1hDQjNNRkhaQVhSQVBDWlhZTVlZRldGTS8)** 
  **카카오게임즈, NFT 거래소 개발 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSViNCVlYyViOSViNCVlYyU5OCVhNCVlYSViMiU4YyVlYyU5ZSU4NCVlYyVhNiU4OCVlYSViMCU4MC1uZnQtJWVhJWIxJWIwJWViJTllJTk4JWVjJTg2JThjLSVlYiVhNyU4YyVlYiU5MyU5YyVlYiU4YSU5NC0lZWMlOWQlYjQlZWMlOWMlYTAlZWIlOGElOTQtJWVhJWIyJThjJWVjJTllJTg0JWVjJTlkJTk4LSVlYiU4NCVhNSVlYyU4YSVhNC8)** 
  **카카오재팬, '카카오픽코마'로 사명 변경, 프랑스 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDA0MA)** 
@@ -150,8 +140,6 @@ comments : true
 
 ## **기타**
 
- 기타 
-  
  **배기홍 \ 뒷바람과 [앞바람](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3RhaWx3aW5kcy1hbmQtaGVhZHdpbmRzLmh0bWw)** 
  **배기홍 \ 성공으로 가는 [계단](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3N0YWlyd2F5LXRvLXN1Y2Nlc3MuaHRtbA)** 
  **메디컬아이피 박상준 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3NtYi12ZW50dXJlLzIwMjEvMTEvMDIvT043RElWUFdRRkQzTEpVQTdNSEtKSU9MWDQv)** 
@@ -167,10 +155,8 @@ comments : true
  **초기 스타트업의 마케터 [채용](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9icnVuY2guY28ua3IvQG1vYmlpbnNpZGUvMzU4NA)** 
  **스타트업 위클리 광고 [문의](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL2JpdC5seS9zd19hZHZlcnRpc2VtZW50)** 
 
-## **해외뉴스**
+# **해외뉴스**
 
- 해외뉴스 
-  
  **페이스북, 얼굴인식 기능 폐지, 보유 데이터도 [삭제](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy5haXRpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTQxMzI3)** 
  **MS, 메타버스 기반 신제품 대거 [공개](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy93b3JsZC92aWV3LzIwMjEvMTEvMTA0MDIzMS8)** 
  **MS, GPT-3 활용한 '애저 오픈 AI' 서비스 [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2dwdC0zLSVlYSViMCU4MCVlYyVhNyU4NC1tcy0lZWMlYjIlYWItJWVjJTgzJTgxJWVjJTlhJWE5LSVlYyU4NCU5YyVlYiViOSU4NCVlYyU4YSVhNC0lZWMlOTUlYTAlZWMlYTAlODAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVjJWI2JTljJWVjJThiJTljLw)** 
