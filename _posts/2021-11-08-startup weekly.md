@@ -150,8 +150,9 @@ toc_sticky: true
 
 ## **기타**
 
-| **배기홍 \| 뒷바람과 [앞바람](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3RhaWx3aW5kcy1hbmQtaGVhZHdpbmRzLmh0bWw)** |
+| 기타 |
 | ------------------------------------------------------------ |
+| **배기홍 \| 뒷바람과 [앞바람](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3RhaWx3aW5kcy1hbmQtaGVhZHdpbmRzLmh0bWw)** |
 | **배기홍 \| 성공으로 가는 [계단](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3N0YWlyd2F5LXRvLXN1Y2Nlc3MuaHRtbA)** |
 | **메디컬아이피 박상준 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3NtYi12ZW50dXJlLzIwMjEvMTEvMDIvT043RElWUFdRRkQzTEpVQTdNSEtKSU9MWDQv)** |
 | **빌리지베이비 이정윤 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubW9iaWluc2lkZS5jby5rci8yMDIxLzExLzAzL3ZpbGxhZ2ViYWJ5LWludGVydmlldy8)** |
