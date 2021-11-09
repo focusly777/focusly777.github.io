@@ -95,79 +95,78 @@ comments : true
 ## **정책/지원**
 
 - **코리아스타트업포럼, 온라인 플랫폼 규제 입법 중단 [촉구](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9uZXdzLm10LmNvLmtyL210dmlldy5waHA_bm89MjAyMTExMDQxNjA1MTIzMzMxNA)** 
-   **원격의료산업협의회, 보건복지부 비대면 진료 유지 [환영](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cua3VraW5ld3MuY29tL25ld3NWaWV3L2t1azIwMjExMDMxMDA3OQ)** 
-   **공정위, 변협의 '로톡' 고발 내용 전부 무혐의 [판정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTA1)** 
-   **금융위, 마이데이터 정보 제공 19세 이상으로 [제한](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzA0LTUyLw)** 
-   **창진원, 공공 마이데이터 연계로 창업기업 확인 [간소화](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTAw)** 
-   **정부, 벤처 스톡옵션 가격산정 불확실성 [개정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNjAwMDA3MA)** 
-   **서울시, 내년 디지털전환 등 신사업에 2조원 [투입](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMTAwMDE4NQ)** 
-   **서울시, '메타버스 서울 추진 기본계획' [발표](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMzAwMDE4Nw)** 
-   **과기부, 인공지능 씽크탱크 'AI 혁신허브' [출범](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMjAwMDEzNg)** 
-   **아산나눔재단, 스타트업 육성센터 '마루360' [개관](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9tLmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjExMTAyMDkxNDAwMDU3MTE)** 
+- **원격의료산업협의회, 보건복지부 비대면 진료 유지 [환영](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cua3VraW5ld3MuY29tL25ld3NWaWV3L2t1azIwMjExMDMxMDA3OQ)** 
+-  **공정위, 변협의 '로톡' 고발 내용 전부 무혐의 [판정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTA1)** 
+-  **금융위, 마이데이터 정보 제공 19세 이상으로 [제한](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzA0LTUyLw)** 
+-  **창진원, 공공 마이데이터 연계로 창업기업 확인 [간소화](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTAw)** 
+-  **정부, 벤처 스톡옵션 가격산정 불확실성 [개정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNjAwMDA3MA)** 
+-  **서울시, 내년 디지털전환 등 신사업에 2조원 [투입](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMTAwMDE4NQ)** 
+-  **서울시, '메타버스 서울 추진 기본계획' [발표](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMzAwMDE4Nw)** 
+-  **과기부, 인공지능 씽크탱크 'AI 혁신허브' [출범](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMjAwMDEzNg)** 
+-  **아산나눔재단, 스타트업 육성센터 '마루360' [개관](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9tLmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjExMTAyMDkxNDAwMDU3MTE)** 
    **→2일 개관한 '마루360' [방문기](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwMzE2MDE1Nw)** 
-   **디캠프, 스타트업 거리 축제 IF2021 9일간 [개최](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuc3RhcnR1cHRvZGF5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MzI1MQ)** 
+-  **디캠프, 스타트업 거리 축제 IF2021 9일간 [개최](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuc3RhcnR1cHRvZGF5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MzI1MQ)** 
 
 ## **업계동향**
 
- **하이브-두나무, NFT 사업 파트너십 구축, 상호 지분 [투자](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3RlY2hfaXQvMjAyMS8xMS8wNC9CM1hDQjNNRkhaQVhSQVBDWlhZTVlZRldGTS8)** 
- **카카오게임즈, NFT 거래소 개발 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSViNCVlYyViOSViNCVlYyU5OCVhNCVlYSViMiU4YyVlYyU5ZSU4NCVlYyVhNiU4OCVlYSViMCU4MC1uZnQtJWVhJWIxJWIwJWViJTllJTk4JWVjJTg2JThjLSVlYiVhNyU4YyVlYiU5MyU5YyVlYiU4YSU5NC0lZWMlOWQlYjQlZWMlOWMlYTAlZWIlOGElOTQtJWVhJWIyJThjJWVjJTllJTg0JWVjJTlkJTk4LSVlYiU4NCVhNSVlYyU4YSVhNC8)** 
- **카카오재팬, '카카오픽코마'로 사명 변경, 프랑스 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDA0MA)** 
- **위메이드, 위믹스플랫폼 통해 게임계 기축통화 지위 [목표](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMzAwMDE4MA)** 
- **파운트, 뉴욕 증시에 테마형 ETF 2종 [상장](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy9idXNpbmVzcy92aWV3LzIwMjEvMTEvMTA1MDAwNy8)** 
- **토스증권, 해외주식 서비스 사전신청 [접수](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYyU4YSVhNCVlYyVhNiU5ZCVlYSViNiU4Yy0lZWQlOTUlYjQlZWMlOTklYjglZWMlYTMlYmMlZWMlOGIlOWQtJWVjJTg0JTljJWViJWI5JTg0JWVjJThhJWE0LSVlYSViMCU5YyVlYyU4YiU5Yy0lZWMlODIlYWMlZWMlYTAlODQlZWMlOGIlYTAlZWMlYjIlYWQtJWVjJWEwJTkxJWVjJTg4JTk4Lw)** 
- **SKT, 기업분할 통해 'SK 스퀘어' [출범](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTAzMTAwMDA2Mg)** 
- **SK브로드밴드, 4일 Apple TV 4K [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy50ZWNoaG9saWMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwMTAxNQ)** 
- **구글, 한국서 '인앱결제 강제' [포기](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWQlOTUlOWMlZWElYjUlYWQlZWMlODQlOWMtJWVjJTlkJWI4JWVjJTk1JWIxJWVhJWIyJWIwJWVjJWEwJTljLSVlYSViMCU5NSVlYyVhMCU5Yy0lZWQlOGYlYWMlZWElYjglYjAlZWMlOTklYjglZWIlYjYlODAlZWElYjIlYjAlZWMlYTAlOWMtJWVkJTk3JTg4JWVjJTlhJWE5Lw)** 
- **넷플릭스, 망 이용대가 지급 거부 의사 [재확인](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDE0Ng)** 
- **교육 MCN ‘메이저스’, 택시-엘리베이터 영상 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNjM0)** 
- **IGA웍스, 디지털 종합 광고대행사 ‘디지털트리니티’ [출범](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODMy)** 
- **샌드박스, ‘뉴미디어 트렌드 2022’ [출간](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNjY5)** 
- **무신사-쏘카, 회원 대상 공동 프로모션 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNjU4)** 
- **모두싸인, ‘시프티’와 전자계약 서비스 [연동](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNDQw)** 
- **리걸테크 ‘로이어드’, 선문대와 AI 법학 분야 연구 [협력](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODc3)** 
- **다락-우리집은도서관, 공유 서비스 기반 전략적 [제휴](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxOTMz)** 
- **지니뮤직-해긴, 메타버스 음악 서비스 신사업 [협력](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNTAwMDAyNA)** 
- **테헤란로세공사들 운영 ‘제리캔디자인’, 제페토와 [협업](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxOTgz)** 
- **팀스파르타-카카오벤처스, 개발자 채용 파트너십 [체결](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy9idXNpbmVzcy92aWV3LzIwMjEvMTEvMTA0MzQ5OC8)** 
- **바로고-플라잉캣-GS리테일 등, 퀵커머스 경쟁 [확대](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9iaXouY2hvc3VuLmNvbS9kaXN0cmlidXRpb24vY2hhbm5lbC8yMDIxLzExLzA0L1BBSTVENlVWQjVFSVJPT0dNREhJSldCTVJRLw)** 
- **롯데하이마트, 자체 간편결제 '하이마트페이' [구축](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMTAwMDIxMA)** 
- **몽골 웰스테크 스타트업 '오르다', 한국 시장 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODk5)** 
- **집토스, 전역 장병 집 구해주기 이벤트 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9tYWdhemluZS5oYW5reXVuZy5jb20vam9iLWpveS9hcnRpY2xlLzIwMjExMTA0NjE4NmQ)** 
- **그린플러스, 47억원 규모 ‘청년 스마트팜’ [신축](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNzE1)** 
- **로보티즈, AI 실내 배송 로봇 ‘집개미’ 본격 [상용화](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MTcy)** 
- **뉴런모빌리티, 위험 주행-불법 주차 감지시스템 [개발](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDE1OQ)** 
- **신생 항공사 '에어프레미아', 유명섭 신임 대표이사 [내정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNDQ3)** 
+- **하이브-두나무, NFT 사업 파트너십 구축, 상호 지분 [투자](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3RlY2hfaXQvMjAyMS8xMS8wNC9CM1hDQjNNRkhaQVhSQVBDWlhZTVlZRldGTS8)** 
+-  **카카오게임즈, NFT 거래소 개발 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSViNCVlYyViOSViNCVlYyU5OCVhNCVlYSViMiU4YyVlYyU5ZSU4NCVlYyVhNiU4OCVlYSViMCU4MC1uZnQtJWVhJWIxJWIwJWViJTllJTk4JWVjJTg2JThjLSVlYiVhNyU4YyVlYiU5MyU5YyVlYiU4YSU5NC0lZWMlOWQlYjQlZWMlOWMlYTAlZWIlOGElOTQtJWVhJWIyJThjJWVjJTllJTg0JWVjJTlkJTk4LSVlYiU4NCVhNSVlYyU4YSVhNC8)** 
+-  **카카오재팬, '카카오픽코마'로 사명 변경, 프랑스 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDA0MA)** 
+-  **위메이드, 위믹스플랫폼 통해 게임계 기축통화 지위 [목표](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMzAwMDE4MA)** 
+-  **파운트, 뉴욕 증시에 테마형 ETF 2종 [상장](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy9idXNpbmVzcy92aWV3LzIwMjEvMTEvMTA1MDAwNy8)** 
+-  **토스증권, 해외주식 서비스 사전신청 [접수](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYyU4YSVhNCVlYyVhNiU5ZCVlYSViNiU4Yy0lZWQlOTUlYjQlZWMlOTklYjglZWMlYTMlYmMlZWMlOGIlOWQtJWVjJTg0JTljJWViJWI5JTg0JWVjJThhJWE0LSVlYSViMCU5YyVlYyU4YiU5Yy0lZWMlODIlYWMlZWMlYTAlODQlZWMlOGIlYTAlZWMlYjIlYWQtJWVjJWEwJTkxJWVjJTg4JTk4Lw)** 
+-  **SKT, 기업분할 통해 'SK 스퀘어' [출범](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTAzMTAwMDA2Mg)** 
+-  **SK브로드밴드, 4일 Apple TV 4K [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy50ZWNoaG9saWMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwMTAxNQ)** 
+-  **구글, 한국서 '인앱결제 강제' [포기](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWQlOTUlOWMlZWElYjUlYWQlZWMlODQlOWMtJWVjJTlkJWI4JWVjJTk1JWIxJWVhJWIyJWIwJWVjJWEwJTljLSVlYSViMCU5NSVlYyVhMCU5Yy0lZWQlOGYlYWMlZWElYjglYjAlZWMlOTklYjglZWIlYjYlODAlZWElYjIlYjAlZWMlYTAlOWMtJWVkJTk3JTg4JWVjJTlhJWE5Lw)** 
+-  **넷플릭스, 망 이용대가 지급 거부 의사 [재확인](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDE0Ng)** 
+-  **교육 MCN ‘메이저스’, 택시-엘리베이터 영상 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNjM0)** 
+-  **IGA웍스, 디지털 종합 광고대행사 ‘디지털트리니티’ [출범](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODMy)** 
+-  **샌드박스, ‘뉴미디어 트렌드 2022’ [출간](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNjY5)** 
+-  **무신사-쏘카, 회원 대상 공동 프로모션 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNjU4)** 
+-  **모두싸인, ‘시프티’와 전자계약 서비스 [연동](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNDQw)** 
+-  **리걸테크 ‘로이어드’, 선문대와 AI 법학 분야 연구 [협력](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODc3)** 
+-  **다락-우리집은도서관, 공유 서비스 기반 전략적 [제휴](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxOTMz)** 
+-  **지니뮤직-해긴, 메타버스 음악 서비스 신사업 [협력](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNTAwMDAyNA)** 
+-  **테헤란로세공사들 운영 ‘제리캔디자인’, 제페토와 [협업](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxOTgz)** 
+-  **팀스파르타-카카오벤처스, 개발자 채용 파트너십 [체결](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy9idXNpbmVzcy92aWV3LzIwMjEvMTEvMTA0MzQ5OC8)** 
+-  **바로고-플라잉캣-GS리테일 등, 퀵커머스 경쟁 [확대](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9iaXouY2hvc3VuLmNvbS9kaXN0cmlidXRpb24vY2hhbm5lbC8yMDIxLzExLzA0L1BBSTVENlVWQjVFSVJPT0dNREhJSldCTVJRLw)** 
+-  **롯데하이마트, 자체 간편결제 '하이마트페이' [구축](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMTAwMDIxMA)** 
+-  **몽골 웰스테크 스타트업 '오르다', 한국 시장 [진출](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODk5)** 
+-  **집토스, 전역 장병 집 구해주기 이벤트 [진행](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9tYWdhemluZS5oYW5reXVuZy5jb20vam9iLWpveS9hcnRpY2xlLzIwMjExMTA0NjE4NmQ)** 
+-  **그린플러스, 47억원 규모 ‘청년 스마트팜’ [신축](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNzE1)** 
+-  **로보티즈, AI 실내 배송 로봇 ‘집개미’ 본격 [상용화](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MTcy)** 
+-  **뉴런모빌리티, 위험 주행-불법 주차 감지시스템 [개발](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNDAwMDE1OQ)** 
+-  **신생 항공사 '에어프레미아', 유명섭 신임 대표이사 [내정](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxNDQ3)** 
 
 ## **기타**
 
- **배기홍 \ 뒷바람과 [앞바람](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3RhaWx3aW5kcy1hbmQtaGVhZHdpbmRzLmh0bWw)** 
- **배기홍 \ 성공으로 가는 [계단](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3N0YWlyd2F5LXRvLXN1Y2Nlc3MuaHRtbA)** 
- **메디컬아이피 박상준 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3NtYi12ZW50dXJlLzIwMjEvMTEvMDIvT043RElWUFdRRkQzTEpVQTdNSEtKSU9MWDQv)** 
- **빌리지베이비 이정윤 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubW9iaWluc2lkZS5jby5rci8yMDIxLzExLzAzL3ZpbGxhZ2ViYWJ5LWludGVydmlldy8)** 
- **구하다 윤재섭 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzUtMTAyLw)** 
- **센스톤 정태균 CIPO [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzEtMTE1NC8)** 
- **IP로 엿보는 유니콘 이야기 – [두나무](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MzI1)** 
- **스타트업이 숫자로 사업계획 하는 [방법](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubW9iaWluc2lkZS5jby5rci8yMDIxLzExLzAxL3N0YXJ0dXAtYnVzaW5lc3MtcGxhbi8)** 
- **무상증자를 하는 이유와 [방법](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODI3)** 
- **개발자 컨퍼런스의 [계절](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL2NoYW5ueS5jcmVhdGlvbi5uZXQvYmxvZy8xNDgy)** 
- **면접하면서 회사 [파악하기](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9icnVuY2guY28ua3IvQG1vYmlpbnNpZGUvMzU4Mg)** 
- **피해야 할 8가지 멘토 [유형](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTI4)** 
- **초기 스타트업의 마케터 [채용](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9icnVuY2guY28ua3IvQG1vYmlpbnNpZGUvMzU4NA)** 
- **스타트업 위클리 광고 [문의](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL2JpdC5seS9zd19hZHZlcnRpc2VtZW50)** 
+- **배기홍 \ 뒷바람과 [앞바람](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3RhaWx3aW5kcy1hbmQtaGVhZHdpbmRzLmh0bWw)** 
+-  **배기홍 \ 성공으로 가는 [계단](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGhlc3RhcnR1cGJpYmxlLmNvbS8yMDIxLzExL3N0YWlyd2F5LXRvLXN1Y2Nlc3MuaHRtbA)** 
+-  **메디컬아이피 박상준 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lY29ub215L3NtYi12ZW50dXJlLzIwMjEvMTEvMDIvT043RElWUFdRRkQzTEpVQTdNSEtKSU9MWDQv)** 
+-  **빌리지베이비 이정윤 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubW9iaWluc2lkZS5jby5rci8yMDIxLzExLzAzL3ZpbGxhZ2ViYWJ5LWludGVydmlldy8)** 
+-  **구하다 윤재섭 대표 [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzUtMTAyLw)** 
+-  **센스톤 정태균 CIPO [인터뷰](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzEtMTE1NC8)** 
+-  **IP로 엿보는 유니콘 이야기 – [두나무](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MzI1)** 
+-  **스타트업이 숫자로 사업계획 하는 [방법](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubW9iaWluc2lkZS5jby5rci8yMDIxLzExLzAxL3N0YXJ0dXAtYnVzaW5lc3MtcGxhbi8)** 
+-  **무상증자를 하는 이유와 [방법](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudmVudHVyZXNxdWFyZS5uZXQvODQxODI3)** 
+-  **개발자 컨퍼런스의 [계절](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL2NoYW5ueS5jcmVhdGlvbi5uZXQvYmxvZy8xNDgy)** 
+-  **면접하면서 회사 [파악하기](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9icnVuY2guY28ua3IvQG1vYmlpbnNpZGUvMzU4Mg)** 
+-  **피해야 할 8가지 멘토 [유형](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTczOTI4)** 
+-  **초기 스타트업의 마케터 [채용](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9icnVuY2guY28ua3IvQG1vYmlpbnNpZGUvMzU4NA)** 
 
 # **해외뉴스**
 
- **페이스북, 얼굴인식 기능 폐지, 보유 데이터도 [삭제](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy5haXRpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTQxMzI3)** 
- **MS, 메타버스 기반 신제품 대거 [공개](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy93b3JsZC92aWV3LzIwMjEvMTEvMTA0MDIzMS8)** 
- **MS, GPT-3 활용한 '애저 오픈 AI' 서비스 [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2dwdC0zLSVlYSViMCU4MCVlYyVhNyU4NC1tcy0lZWMlYjIlYWItJWVjJTgzJTgxJWVjJTlhJWE5LSVlYyU4NCU5YyVlYiViOSU4NCVlYyU4YSVhNC0lZWMlOTUlYTAlZWMlYTAlODAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVjJWI2JTljJWVjJThiJTljLw)** 
- **MS, 자회사 깃허브 넷 프리드먼 CEO [사임](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwNDA3MTcyMQ)** 
- **넷플릭스, 안드로이드 모바일 게임 [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwMzA3MzkxNg)** 
- **블루오리진, NASA 달 착륙선 관련 소송 [패소](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNTAwMDA2Mg)** 
- **아마존, 내년 인터넷 위성 '카이퍼' 시험 발사 [추진](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMjAwMDE0NA)** 
- **아마존, 전기트럭 스타트업 '리비안' 지분 20% [확보](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuaGFua3l1bmcuY29tL2ZpbmFuY2UvYXJ0aWNsZS8yMDIxMTAzMDQ0MzBp)** 
- **테슬라, 소프트웨어 결함으로 전기차 1만2천대 [리콜](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuYmxvdGVyLm5ldC9uZXdzVmlldy9ibHQyMDIxMTEwMzAwNzM)** 
- **헝다, 유동성 위해 영국 전기차 스타트업 매각 [임박](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuaGFua3l1bmcuY29tL2Vjb25vbXkvYXJ0aWNsZS8yMDIxMTEwNDcwMzNZ)** 
- **샤오미, 선전에 1만번째 중국 샤오미 스토어 [개장](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MzE5)** 
+-  **페이스북, 얼굴인식 기능 폐지, 보유 데이터도 [삭제](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cDovL3d3dy5haXRpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTQxMzI3)** 
+- **MS, 메타버스 기반 신제품 대거 [공개](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cubWsuY28ua3IvbmV3cy93b3JsZC92aWV3LzIwMjEvMTEvMTA0MDIzMS8)** 
+-  **MS, GPT-3 활용한 '애저 오픈 AI' 서비스 [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2dwdC0zLSVlYSViMCU4MCVlYyVhNyU4NC1tcy0lZWMlYjIlYWItJWVjJTgzJTgxJWVjJTlhJWE5LSVlYyU4NCU5YyVlYiViOSU4NCVlYyU4YSVhNC0lZWMlOTUlYTAlZWMlYTAlODAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVjJWI2JTljJWVjJThiJTljLw)** 
+-  **MS, 자회사 깃허브 넷 프리드먼 CEO [사임](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwNDA3MTcyMQ)** 
+-  **넷플릭스, 안드로이드 모바일 게임 [출시](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly96ZG5ldC5jby5rci92aWV3Lz9ubz0yMDIxMTEwMzA3MzkxNg)** 
+-  **블루오리진, NASA 달 착륙선 관련 소송 [패소](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwNTAwMDA2Mg)** 
+-  **아마존, 내년 인터넷 위성 '카이퍼' 시험 발사 [추진](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZXRuZXdzLmNvbS8yMDIxMTEwMjAwMDE0NA)** 
+-  **아마존, 전기트럭 스타트업 '리비안' 지분 20% [확보](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuaGFua3l1bmcuY29tL2ZpbmFuY2UvYXJ0aWNsZS8yMDIxMTAzMDQ0MzBp)** 
+-  **테슬라, 소프트웨어 결함으로 전기차 1만2천대 [리콜](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuYmxvdGVyLm5ldC9uZXdzVmlldy9ibHQyMDIxMTEwMzAwNzM)** 
+-  **헝다, 유동성 위해 영국 전기차 스타트업 매각 [임박](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuaGFua3l1bmcuY29tL2Vjb25vbXkvYXJ0aWNsZS8yMDIxMTEwNDcwMzNZ)** 
+-  **샤오미, 선전에 1만번째 중국 샤오미 스토어 [개장](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9wbGF0dW0ua3IvYXJjaGl2ZXMvMTc0MzE5)** 
 
 
 
