@@ -25,6 +25,8 @@ sidebar:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTePcB1I8-QvARsrwk5UL1vrHdOJh7PDDuG3U7C6aQhlKmvgSJHXj-hIb8YafTeHJeuSdv3uyI9GL7/pubhtml?widget=true&amp;headers=false" width="100%" height="1000" ></iframe>
 
+- 임연우 개발자 연락해보기 
+  - [임연우블로그](https://terry1213.github.io/categories/#flutter)
 
 ## Flutter
 
