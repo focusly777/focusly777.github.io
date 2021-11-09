@@ -1,5 +1,6 @@
 ---
 title: "11월 1주차 STARTUP NEWS"
+layout: pages
 categories: 
   - startup
 tags: 
@@ -8,6 +9,7 @@ tags:
 toc: true
 toc_sticky: true
 comments : true
+
 ---
 
 
