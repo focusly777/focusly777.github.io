@@ -9,13 +9,17 @@ toc: true
 toc_sticky: true
 ---
 
-출처 : STARTUP WEEKLY
+#### **출처 : STARTUP WEEKLY**
+
+
+
+![news](/assets/img/news.jpg)
 
 ## 국내뉴스
 
 ### 엑싯/투자
 
-|                                                              |
+| 엑싯/투자                                                    |
 | ------------------------------------------------------------ |
 | 카카오페이 상장, 첫날 시총 13위 [등극](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvRWNvbm9teS9hcnRpY2xlL2FsbC8yMDIxMTEwMy8xMTAwNjgyNTAvMQ) |
 | 포티투닷, 1040억원 시리즈A 투자 [유치](https://event.stibee.com/v2/click/MzQ4MDcvNzUwNDE2Lzk1OTk5Lw/aHR0cHM6Ly9ieWxpbmUubmV0d29yay8yMDIxLzExLzItMTEyLw) |
