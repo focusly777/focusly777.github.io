@@ -7,7 +7,7 @@ tags:
   - news
 toc: true
 toc_sticky: true
-comment : true
+comments : true
 ---
 
 
