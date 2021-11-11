@@ -1,14 +1,9 @@
 ---
 title: "긴 블로그글 쉽게 읽는 복붙 리딩앱 - 무료배포예정"
 layout: single
-categories: 
-  - dart
-  - flutter
 tags: 
-  - 난독증
-  - 앱
-  - 어플리케이션
-  - 난독증 어플
+  - 긴글읽기
+  - 복붙리딩앱
   - dart
   - flutter
 toc: true
