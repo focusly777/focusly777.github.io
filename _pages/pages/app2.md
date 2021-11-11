@@ -9,7 +9,6 @@ tags:
 toc: true
 toc_sticky: true
 permalink: /app2/
-
 ---
 
 ## 어플리케이션 소개
