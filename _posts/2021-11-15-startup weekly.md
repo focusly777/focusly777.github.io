@@ -12,7 +12,7 @@ toc_sticky: true
 comments : true
 
 ---
-
+![news](/assets/img/news.jpg)
 # **출처 : STARTUP WEEKLY**
 
 # **국내 뉴스**                                                
