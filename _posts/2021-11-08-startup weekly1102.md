@@ -1,5 +1,5 @@
 ---
-title: "11월 1주차 STARTUP NEWS"
+title: "11월 2주차 STARTUP NEWS"
 categories: 
   - startup
 tags: 
